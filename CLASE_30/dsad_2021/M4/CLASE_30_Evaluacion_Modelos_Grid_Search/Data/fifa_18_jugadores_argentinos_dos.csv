@@ -1,0 +1,963 @@
+,ID,full_name,age,club,height_cm,weight_kg,puntaje_global,potential,ritmo,disparos,pases,amagues,defensa,físico
+1,158023,Lionel Messi,30,FC Barcelona,170.0,72.0,93,93,89,90,86,96,26,61
+9,167664,Gonzalo Higuaín,29,Juventus,184.0,87.0,90,90,79,87,70,83,25,74
+16,153079,Sergio Agüero,29,Manchester City,173.0,70.0,89,89,87,88,75,89,23,72
+19,211110,Paulo Dybala,23,Juventus,177.0,73.0,88,93,86,85,81,91,24,67
+85,183898,Ángel Di María,29,Paris Saint-Germain,180.0,75.0,85,85,86,77,82,86,47,68
+102,201399,Mauro Icardi,24,Inter,181.0,75.0,84,89,78,83,61,75,26,70
+125,143076,Alejandro Gómez,29,Atalanta,165.0,68.0,84,84,90,77,80,89,31,58
+131,215316,Gerónimo Rulli,25,Real Sociedad,189.0,84.0,83,89,85,79,75,86,51,82
+156,192366,Nicolás Otamendi,29,Manchester City,183.0,81.0,83,83,63,56,59,54,83,81
+157,191180,Javier Pastore,28,Paris Saint-Germain,187.0,78.0,83,83,71,75,83,85,58,64
+165,186547,Mateo Musacchio,26,Milan,180.0,73.0,83,86,70,51,67,58,84,78
+170,184144,Nicolás Gaitán,29,Atlético Madrid,173.0,68.0,83,83,81,74,81,85,39,55
+174,178562,Éver Banega,29,Sevilla FC,174.0,71.0,83,83,69,70,85,84,62,67
+181,170481,Ezequiel Garay,30,Valencia CF,189.0,90.0,83,83,43,64,66,64,84,80
+187,158963,Lucas Biglia,31,Milan,178.0,63.0,83,83,69,63,81,80,75,75
+190,142754,Javier Mascherano,33,FC Barcelona,174.0,73.0,83,83,65,53,71,68,82,77
+231,201862,Marcos Rojo,27,Manchester United,187.0,80.0,82,83,71,59,69,68,81,83
+265,179847,Federico Fazio,30,Roma,195.0,85.0,82,82,30,41,54,54,84,81
+352,188988,Manuel Lanzini,24,West Ham United,167.0,59.0,81,87,82,71,78,86,28,55
+359,183900,Diego Perotti,28,Roma,179.0,70.0,81,81,81,71,78,85,32,59
+381,142780,Gonzalo Rodríguez,33,San Lorenzo de Almagro,182.0,79.0,81,81,68,47,61,65,83,76
+394,214997,Ángel Correa,22,Atlético Madrid,173.0,69.0,80,87,82,80,66,86,49,59
+411,207439,Leandro Paredes,23,Zenit St. Petersburg,180.0,75.0,80,85,72,67,81,79,70,73
+448,193061,Roberto Pereyra,26,Watford,182.0,77.0,80,83,78,68,80,81,66,68
+453,190972,Eduardo Salvio,26,SL Benfica,173.0,77.0,80,80,87,74,74,80,44,70
+479,176915,Augusto Fernández,31,Atlético Madrid,178.0,74.0,80,80,69,70,77,79,68,75
+481,176376,Ignacio Piatti,32,Montreal Impact,180.0,76.0,80,80,77,81,73,85,52,74
+487,173373,Sergio Romero,30,Manchester United,192.0,87.0,80,80,78,76,81,82,45,78
+492,170368,Erik Lamela,25,Tottenham Hotspur,181.0,80.0,80,83,76,77,79,82,45,67
+498,165536,Gustavo Cabral,31,RC Celta de Vigo,182.0,81.0,80,80,42,31,56,56,81,78
+510,143587,Fernando Belluschi,33,San Lorenzo de Almagro,173.0,78.0,80,80,70,75,81,79,59,69
+529,224334,Marcos Acuña,25,Sporting CP,172.0,69.0,79,82,84,72,78,80,57,76
+536,215259,Emiliano Rigoni,24,Zenit St. Petersburg,178.0,74.0,79,85,86,73,76,79,43,61
+537,215057,Iván Marcone,27,Club Atlético Lanús,183.0,83.0,79,82,49,58,70,68,76,80
+548,211256,Nicolás Tagliafico,24,Independiente,172.0,67.0,79,84,88,55,66,76,78,72
+555,207441,Luciano Vietto,23,Atlético Madrid,173.0,70.0,79,86,75,78,72,85,36,62
+573,201988,Federico Fernández,28,Swansea City,189.0,83.0,79,79,48,28,51,50,81,76
+616,188955,Gustavo Bou,27,Club Tijuana,177.0,75.0,79,80,76,78,69,78,30,73
+630,183899,Pablo Piatti,28,RCD Espanyol,163.0,63.0,79,79,85,71,76,81,42,56
+631,183893,Claudio Yacob,29,West Bromwich Albion,181.0,73.0,79,79,43,59,66,69,78,75
+650,173306,Cristian Ansaldi,30,Torino,181.0,76.0,79,79,80,59,75,79,76,76
+654,172114,Diego Valeri,31,Portland Timbers,178.0,75.0,79,79,62,81,79,77,36,65
+664,165501,Nicolás Pareja,33,Sevilla FC,181.0,74.0,79,79,38,60,70,65,79,69
+666,160741,David Abraham,30,Eintracht Frankfurt,188.0,83.0,79,79,80,56,61,52,79,77
+679,142784,Pablo Zabaleta,32,West Ham United,178.0,74.0,79,79,61,56,70,73,81,78
+681,139062,Willy Caballero,35,Chelsea,186.0,80.0,79,79,80,76,73,81,46,78
+704,223061,Franco Cervi,23,SL Benfica,166.0,62.0,78,85,89,68,70,83,44,54
+714,219576,Rodrigo Battaglia,25,Sporting CP,187.0,79.0,78,80,66,71,70,75,77,84
+723,215353,Lucas Alario,24,Bayer 04 Leverkusen,184.0,79.0,78,83,72,76,59,75,30,78
+725,215061,Darío Benedetto,27,Boca Juniors,175.0,75.0,78,79,81,79,65,74,31,72
+726,215051,Lisandro López,27,SL Benfica,188.0,82.0,78,79,66,51,50,63,78,79
+727,214977,Matías Kranevitter,24,Zenit St. Petersburg,179.0,75.0,78,85,71,49,69,72,77,77
+728,213582,Alan Ruiz,23,Sporting CP,183.0,77.0,78,84,62,81,80,83,34,68
+739,210333,Alexander Szymanowski,28,CD Leganés,174.0,69.0,78,78,88,72,72,78,39,62
+748,207939,Guido Pizarro,27,Sevilla FC,186.0,71.0,78,80,60,62,71,69,74,84
+756,205633,Lucas Castro,28,Chievo Verona,180.0,80.0,78,78,78,67,78,80,65,68
+762,204819,Emiliano Sala,26,FC Nantes,187.0,75.0,78,80,62,77,64,73,47,83
+783,201095,Agustín Marchesín,29,Club América,188.0,85.0,78,79,73,75,74,81,51,80
+799,198140,Rogelio Funes Mori,26,Monterrey,184.0,81.0,78,81,77,76,68,75,50,79
+803,196432,Enzo Pérez,31,River Plate,178.0,77.0,78,78,70,70,75,74,75,80
+809,193601,Germán Pezzella,26,Fiorentina,186.0,81.0,78,83,47,51,46,53,78,75
+835,188268,Lautaro Acosta,29,Club Atlético Lanús,169.0,67.0,78,78,93,72,70,81,33,56
+872,176919,Nahuel Guzmán,31,Tigres U.A.N.L.,193.0,93.0,78,78,77,76,65,80,52,78
+894,200197,Nicolás Blandi,27,San Lorenzo de Almagro,180.0,76.0,77,78,66,78,59,70,38,64
+895,210950,Pablo De Blasis,29,1. FSV Mainz 05,166.0,65.0,77,77,80,72,71,83,39,62
+907,146963,Javier Pinola,34,River Plate,184.0,81.0,77,77,70,50,66,68,75,77
+922,139038,Nicolás Burdisso,36,Torino,183.0,81.0,77,77,61,29,46,47,79,73
+927,173857,Mariano Andújar,33,Estudiantes de La Plata,194.0,88.0,77,77,77,76,64,78,45,79
+935,215079,Pablo Pérez,31,Boca Juniors,175.0,76.0,77,77,71,63,75,74,70,80
+956,214584,Franco Armani,30,Atletico Nacional Medellin,189.0,89.0,77,77,76,73,67,79,32,78
+1000,153177,Mauro Zárate,30,Watford,176.0,76.0,77,77,77,79,68,85,33,65
+1010,205408,Santiago Gentiletti,32,Genoa,186.0,77.0,77,77,69,36,57,62,78,73
+1014,142950,Román Martínez,34,Club Atlético Lanús,184.0,81.0,77,77,65,70,76,73,59,72
+1029,216692,Sebastián Torrico,37,San Lorenzo de Almagro,186.0,84.0,77,77,76,72,75,80,49,78
+1073,161938,Mauro Boselli,32,Club León,185.0,75.0,77,77,61,76,64,69,33,75
+1091,183966,Facundo Roncaglia,30,RC Celta de Vigo,179.0,76.0,77,77,67,53,68,64,78,72
+1126,221125,Sebastián Driussi,21,Zenit St. Petersburg,179.0,82.0,77,85,81,75,72,74,25,69
+1162,173030,Óscar Trejo,29,Rayo Vallecano,180.0,79.0,77,77,71,71,76,80,62,73
+1170,172018,Jonatan Maidana,31,River Plate,185.0,86.0,77,77,60,37,61,50,77,79
+1171,199667,Ramiro Funes Mori,26,Everton,186.0,78.0,77,81,68,49,61,65,76,78
+1186,219391,Gonzalo Escalante,24,SD Eibar,182.0,75.0,77,84,67,61,69,71,77,79
+1217,186650,Matías Alustiza,33,Club Atlas,165.0,68.0,76,76,69,79,64,77,34,61
+1221,215069,Rodrigo Rey,26,PAOK Thessaloniki,190.0,80.0,76,79,76,73,69,83,48,78
+1242,138798,Germán Lux,35,River Plate,185.0,77.0,76,76,74,71,78,79,31,76
+1260,139064,Leonardo Ponzio,35,River Plate,174.0,71.0,76,76,56,60,71,69,76,74
+1264,138810,Alejandro Domínguez,36,Rayo Vallecano,175.0,73.0,76,76,64,76,75,77,33,56
+1275,219455,Jonathan Calleri,23,UD Las Palmas,181.0,77.0,76,82,74,73,61,75,39,71
+1276,205632,Lucas Ocampos,22,Olympique de Marseille,187.0,84.0,76,83,78,70,74,78,48,66
+1280,215107,Héctor Villalba,22,Atlanta United FC,172.0,75.0,76,80,92,76,65,80,36,61
+1287,226378,Ramón Ábila,27,Club Atlético Huracán,180.0,88.0,76,77,68,75,54,71,28,77
+1289,226379,Marcos Díaz,31,Club Atlético Huracán,187.0,84.0,76,76,72,71,62,78,38,82
+1312,152916,Rubens Sambueza,33,Deportivo Toluca,174.0,74.0,76,76,70,69,78,76,49,78
+1313,183892,Gabriel Mercado,30,Sevilla FC,180.0,83.0,76,76,75,54,64,59,75,81
+1351,190576,Matías Caruzzo,32,San Lorenzo de Almagro,185.0,80.0,76,76,53,32,57,43,77,80
+1354,165490,Mariano Izco,34,Crotone,180.0,77.0,76,76,72,64,74,77,70,72
+1361,142966,Jesús Dátolo,33,Banfield,177.0,72.0,76,76,71,71,77,77,52,60
+1380,216706,Franco Mussis,25,San Lorenzo de Almagro,174.0,75.0,76,81,77,60,70,69,71,83
+1398,215181,Gino Peruzzi,25,Boca Juniors,178.0,71.0,76,79,84,50,64,70,74,74
+1422,165531,Ismael Sosa,30,Tigres U.A.N.L.,179.0,74.0,76,76,90,73,70,75,47,71
+1428,152993,Renato Civelli,33,Banfield,195.0,92.0,76,76,46,55,53,42,76,80
+1431,152997,Darío Cvitanich,33,Banfield,174.0,72.0,76,76,68,75,67,73,33,70
+1438,214955,Emmanuel Mas,28,Trabzonspor,183.0,73.0,76,76,79,62,67,72,74,80
+1456,213432,Facundo Ferreyra,26,Shakhtar Donetsk,187.0,76.0,76,79,72,76,58,72,26,68
+1462,215998,Ignacio Fernández,27,River Plate,182.0,67.0,76,77,71,68,76,76,54,73
+1501,216796,Federico Cartabia,24,RC Deportivo de La Coruña,169.0,65.0,76,81,78,72,73,80,33,56
+1516,219626,José Luis Gómez,23,Club Atlético Lanús,173.0,63.0,76,82,92,54,63,74,70,63
+1522,214766,Carlos Izquierdoz,28,Santos Laguna,184.0,85.0,76,77,49,48,48,46,76,77
+1526,216816,Giovanni Simeone,21,Fiorentina,180.0,81.0,76,86,78,75,58,75,28,66
+1527,179696,Emiliano Insúa,28,VfB Stuttgart,180.0,79.0,76,76,65,64,73,73,76,79
+1532,167669,Federico Higuaín,32,Columbus Crew SC,173.0,75.0,76,76,66,73,75,75,46,63
+1556,215042,Gastón Lezcano,30,Monarcas Morelia,168.0,65.0,75,75,84,73,66,78,25,70
+1566,204555,Ricardo Álvarez,29,Sampdoria,188.0,84.0,75,75,65,71,76,77,53,71
+1593,215322,Jonathan Silva,23,Sporting CP,180.0,75.0,75,80,81,60,68,73,71,73
+1612,221219,Germán Conti,22,Colon de Santa Fe,193.0,80.0,75,83,70,36,46,44,78,73
+1617,186405,Franco Di Santo,28,FC Schalke 04,193.0,88.0,75,75,72,75,64,74,33,74
+1643,171828,Ignacio Scocco,32,River Plate,177.0,73.0,75,75,77,78,71,78,31,68
+1648,171830,Nicolás Spolli,34,Genoa,193.0,90.0,75,75,41,39,34,45,78,75
+1659,14907,Albano Bizzarri,39,Udinese,193.0,89.0,75,75,74,76,67,72,50,79
+1661,212541,Leonel Vangioni,30,Monterrey,178.0,68.0,75,75,84,63,69,72,72,70
+1690,226377,Gonzalo Martínez,24,River Plate,172.0,75.0,75,81,84,69,68,83,27,57
+1722,223066,Andrés Chávez,26,Panathinaikos FC,184.0,80.0,75,78,80,75,67,72,37,82
+1740,210787,Mauro Dos Santos,27,CD Leganés,180.0,76.0,75,76,62,40,56,52,74,77
+1763,142959,Mariano Barbosa,32,Villarreal CF,188.0,75.0,75,75,75,70,77,78,43,71
+1765,221551,Emanuel Mammana,21,Zenit St. Petersburg,183.0,70.0,75,86,79,42,61,68,75,72
+1768,190577,Sebastián Blanco,29,Portland Timbers,168.0,64.0,75,75,78,70,71,77,28,68
+1781,186745,Matías Pérez García,32,Club Atlético Tigre,165.0,64.0,75,75,81,64,74,78,25,61
+1804,162951,Marcos Angeleri,34,San Lorenzo de Almagro,182.0,76.0,75,75,65,46,56,55,74,79
+1808,188042,Matías Suárez,29,Belgrano de Córdoba,183.0,75.0,75,75,69,71,72,74,25,53
+1866,200875,Emmanuel Gigliotti,30,Independiente,187.0,82.0,75,75,57,74,60,67,32,75
+1876,215985,Fernando Monetti,28,Club Atlético Lanús,184.0,78.0,75,78,78,75,77,77,57,71
+1901,219841,Jorge Figal,23,Independiente,183.0,76.0,75,82,73,41,58,69,76,73
+1902,220609,Valentin Vada,21,Girondins de Bordeaux,175.0,71.0,75,82,65,66,76,76,63,69
+1918,182731,Brian Sarmiento,27,Newell's Old Boys,166.0,66.0,75,76,88,68,74,78,28,50
+1949,208607,Martín Mantovani,32,CD Leganés,185.0,80.0,75,75,39,42,56,60,74,82
+1957,215270,Lucas Zelarayán,25,Tigres U.A.N.L.,172.0,73.0,75,80,77,67,74,79,43,61
+1968,214763,Paolo Goltz,32,Boca Juniors,184.0,80.0,75,75,62,56,63,59,74,79
+1983,167666,Juan Pablo Carrizo,33,Monterrey,187.0,87.0,75,75,77,74,72,76,53,73
+1988,199669,Leandro González Pirez,25,Atlanta United FC,185.0,80.0,75,78,76,48,63,68,74,79
+1994,216055,Federico Carrizo,26,Rosario Central,170.0,68.0,75,76,89,65,72,76,36,62
+2001,158969,Leonardo Pisculichi,33,Argentinos Juniors,175.0,65.0,75,75,70,71,78,76,33,59
+2007,224254,Cristian Pavón,21,Boca Juniors,174.0,76.0,75,84,88,75,70,78,27,56
+2013,191488,Lucas Orbán,28,Racing Club de Avellaneda,184.0,76.0,74,74,66,53,65,61,76,74
+2014,198145,Sergio Araujo,25,AEK Athens,180.0,74.0,74,78,74,71,66,77,27,58
+2033,215050,Diego Braghieri,30,Club Atlético Lanús,186.0,79.0,74,74,66,49,47,55,73,75
+2060,215321,Jonathan Schunke,30,Estudiantes de La Plata,193.0,85.0,74,74,33,29,51,43,75,77
+2081,215071,Milton Casco,29,River Plate,170.0,69.0,74,74,84,62,65,72,70,76
+2086,215330,Joaquín Correa,22,Sevilla FC,188.0,77.0,74,83,75,70,73,76,33,61
+2093,215334,Guido Carrillo,26,AS Monaco,191.0,87.0,74,75,63,75,53,70,35,77
+2108,172077,José María Basanta,33,Monterrey,188.0,78.0,74,74,62,49,54,55,74,71
+2127,138806,Maximiliano López,33,Udinese,190.0,88.0,74,74,43,74,62,70,24,68
+2144,205630,Luciano Abecasis,27,Godoy Cruz,175.0,73.0,74,75,85,41,68,73,68,67
+2147,207679,Facundo Pereyra,29,Necaxa,172.0,70.0,74,74,79,71,70,76,32,56
+2154,214594,Matías Laba,25,Vancouver Whitecaps FC,175.0,70.0,74,78,73,58,66,69,71,73
+2158,211267,Ricardo Centurión,24,Genoa,174.0,65.0,74,79,87,64,67,81,41,59
+2163,172100,Gabriel Peñalba,32,Cruz Azul,194.0,91.0,74,74,46,68,72,72,68,80
+2190,213581,Martín Nervo,26,Club Atlético Huracán,183.0,82.0,74,78,66,45,56,56,72,78
+2214,153175,Juan Martínez,31,Independiente,177.0,72.0,74,74,77,72,67,79,37,61
+2267,217196,José Luis Palomino,27,Atalanta,188.0,87.0,74,76,49,32,59,62,76,75
+2281,217201,Enrique Triverio,28,Racing Club de Avellaneda,184.0,78.0,74,74,72,74,52,71,31,70
+2286,162932,Pablo Barrientos,32,Deportivo Toluca,176.0,69.0,74,74,63,67,77,77,34,58
+2291,192373,Milton Caraglio,28,Club Atlas,187.0,86.0,74,74,57,74,61,69,27,76
+2296,188791,Alberto Costa,32,UD Almería,176.0,75.0,74,74,63,69,75,73,68,64
+2328,219525,Ezequiel Cerutti,25,San Lorenzo de Almagro,179.0,75.0,74,77,90,65,68,76,26,67
+2332,212616,Rodrigo Javier De Paul,23,Udinese,178.0,70.0,74,82,69,70,74,79,39,63
+2362,165787,Jorge Ortiz,33,Belgrano de Córdoba,180.0,74.0,74,74,72,64,72,71,68,70
+2364,165788,Leonardo Ulloa,30,Leicester City,188.0,89.0,74,74,49,72,62,69,42,79
+2372,215199,Rubén Botta,27,San Lorenzo de Almagro,177.0,71.0,74,74,80,63,74,78,30,63
+2379,183969,Juan Forlín,29,Real Oviedo,180.0,74.0,74,74,64,40,61,58,75,73
+2398,215212,Guillermo Sara,29,Boca Juniors,183.0,84.0,74,74,74,70,75,77,43,69
+2412,226226,Giovani Lo Celso,21,Paris Saint-Germain,177.0,69.0,74,86,75,62,76,77,40,63
+2422,206005,Denis Stracqualursi,29,Club Atlético Tigre,190.0,86.0,74,74,64,76,50,62,40,73
+2437,142781,Leandro Romagnoli,36,San Lorenzo de Almagro,172.0,68.0,74,74,56,68,76,75,35,57
+2470,198347,Franco Jara,28,Pachuca,181.0,76.0,74,74,78,74,67,75,33,67
+2476,200653,Guillermo Burdisso,28,Club León,189.0,85.0,74,74,45,41,51,49,74,80
+2478,214989,Martín Benítez,23,Independiente,173.0,75.0,74,81,82,70,66,78,33,62
+2485,142800,Maximiliano Velázquez,36,Club Atlético Lanús,176.0,72.0,74,74,63,68,77,71,74,72
+2501,222429,Andrés Cubas,21,Defensa y Justicia,169.0,60.0,74,84,70,46,66,70,73,56
+2511,189153,Mauro Díaz,26,FC Dallas,170.0,62.0,74,75,72,68,70,75,42,57
+2526,143598,Luciano Pocrnjic,35,Newell's Old Boys,190.0,86.0,74,74,74,72,64,73,29,74
+2539,214770,Diego González,29,Racing Club de Avellaneda,172.0,73.0,74,74,68,66,68,71,73,81
+2601,215049,Damián Pérez,28,Club Tijuana,168.0,66.0,73,73,81,57,55,73,70,63
+2608,167435,Oscar Ustari,30,Club Atlas,184.0,82.0,73,73,75,70,79,75,59,69
+2623,223247,Nelson Acevedo,28,Unión de Santa Fe,179.0,77.0,73,73,70,53,63,68,71,79
+2628,223248,Juan Martín Lucero,25,Club Tijuana,179.0,72.0,73,75,81,69,60,72,27,64
+2631,204050,Santiago Vergini,28,Boca Juniors,191.0,83.0,73,74,42,38,63,64,75,77
+2648,215064,Julio Furch,27,Santos Laguna,187.0,88.0,73,73,57,74,59,65,34,78
+2676,215331,Leonardo Jara,26,Boca Juniors,185.0,80.0,73,76,76,54,67,73,69,78
+2677,157219,Gastón Fernández,33,Estudiantes de La Plata,170.0,68.0,73,73,73,71,69,73,35,55
+2685,188196,Ricardo Noir,30,Racing Club de Avellaneda,174.0,69.0,73,73,89,70,68,72,46,70
+2702,215083,Maximiliano Urruti,26,FC Dallas,184.0,74.0,73,74,78,75,56,72,53,71
+2706,189228,Maximiliano Caire,28,Club Atlético Tigre,177.0,70.0,73,73,83,38,59,70,72,73
+2716,215089,Enzo Kalinski,30,Club Tijuana,183.0,73.0,73,73,69,51,71,71,69,79
+2718,184626,Nicolás Sánchez,31,Monterrey,187.0,82.0,73,73,51,31,55,56,73,77
+2725,232244,Santiago Ascacibar,20,VfB Stuttgart,168.0,70.0,73,86,73,47,63,65,74,71
+2756,211265,Ariel Rojas,31,River Plate,175.0,82.0,73,73,67,70,73,72,64,70
+2764,211269,Guillermo Fernández,25,Godoy Cruz,178.0,75.0,73,76,76,67,72,76,61,66
+2773,186695,Ezequiel Muñoz,26,CD Leganés,185.0,82.0,73,76,53,29,43,45,74,76
+2799,172113,Matías Fritzler,30,Colon de Santa Fe,179.0,73.0,73,73,49,49,61,61,75,69
+2800,152914,Daniel Montenegro,38,Club Atlético Huracán,173.0,71.0,73,73,45,72,75,72,32,56
+2806,200278,Santiago García,28,Deportivo Toluca,191.0,80.0,73,73,63,53,64,67,73,80
+2832,142942,Javier Gandolfi,36,Talleres de Cordoba,178.0,78.0,73,73,58,43,58,52,73,77
+2838,203872,Gabriel Hauche,30,Deportivo Toluca,167.0,73.0,73,73,89,70,70,78,37,69
+2869,48745,Fabricio Coloccini,35,San Lorenzo de Almagro,184.0,83.0,73,73,57,53,59,60,73,70
+2892,226419,Fabián Sambueza,28,Asociacion Deportivo Cali,170.0,65.0,73,73,80,65,75,73,34,49
+2893,192371,Fabián Rinaudo,30,Gimnasia y Esgrima La Plata,175.0,78.0,73,73,72,61,66,72,71,75
+2897,229749,Alexander Barboza,22,River Plate,192.0,88.0,73,83,52,30,48,53,76,69
+2910,215162,Alejandro Donatti,30,Club Tijuana,191.0,77.0,73,73,54,57,51,54,73,75
+2913,225659,Guido Rodríguez,22,Club América,185.0,80.0,73,77,60,49,65,62,71,76
+2917,216700,Maximiliano Meza,25,Independiente,180.0,69.0,73,76,79,69,71,76,34,69
+2933,191104,Juan Mercier,37,San Lorenzo de Almagro,181.0,78.0,73,73,60,61,71,69,72,67
+2949,215177,Francisco Cerro,29,Rayo Vallecano,178.0,71.0,73,73,73,56,70,69,71,80
+2956,213132,Mauricio Sperduti,31,Banfield,180.0,73.0,73,73,76,67,67,73,32,62
+2959,191628,Leandro Chichizola,27,UD Las Palmas,186.0,82.0,73,75,73,73,62,75,52,72
+3011,139169,Walter Erviti,37,Independiente,168.0,64.0,73,73,53,68,76,71,55,52
+3013,215202,Lucas Janson,22,Club Atlético Tigre,169.0,67.0,73,81,74,70,64,78,29,55
+3023,190629,Daniel Villalva,24,Tiburones Rojos de Veracruz,158.0,61.0,73,76,89,70,66,79,31,45
+3066,208054,Leandro Fernández,26,Independiente,179.0,75.0,73,76,81,73,64,75,27,62
+3078,213433,Fernando Tobio,27,Rosario Central,185.0,85.0,73,74,66,30,52,47,72,78
+3086,214973,Lucas Villafañez,25,Panathinaikos FC,169.0,65.0,73,75,78,67,73,75,35,50
+3141,216019,Damián Musto,30,Club Tijuana,182.0,82.0,73,73,53,49,65,63,70,77
+3148,215254,Luciano Lollo,30,River Plate,184.0,85.0,73,73,37,31,40,46,74,74
+3160,199387,Pablo Chavarría,29,Stade de Reims,185.0,74.0,73,73,75,70,69,73,35,74
+3165,232670,Fernando Zampedri,29,Rosario Central,185.0,83.0,73,73,72,73,54,68,23,74
+3179,153060,Juan Insaurralde,32,Boca Juniors,187.0,87.0,73,73,49,39,58,49,72,75
+3185,142822,Jonás Gutiérrez,33,Independiente,183.0,73.0,73,73,62,68,72,73,68,69
+3187,193510,Diego Novaretti,32,Club León,194.0,86.0,73,73,44,26,50,40,74,79
+3208,167665,Nicolás Domingo,32,Independiente,173.0,72.0,73,73,64,57,66,69,69,67
+3209,198386,Sebastián Dubarbier,31,Estudiantes de La Plata,178.0,77.0,73,73,79,61,68,73,68,78
+3225,216054,Nery Domínguez,27,Independiente,184.0,80.0,73,76,58,64,69,67,70,74
+3247,187644,Cristian Maidana,30,Águilas Doradas,181.0,74.0,73,73,68,64,74,73,32,69
+3248,214781,Silvio Romero,28,Club América,175.0,86.0,73,73,76,72,65,71,38,68
+3292,223240,Gonzalo Bettini,24,Banfield,171.0,74.0,72,77,73,41,65,63,70,67
+3299,188938,Cristian Álvarez,31,Real Zaragoza,186.0,83.0,72,72,72,70,69,74,48,72
+3302,215309,Lucas Albertengo,26,Independiente,185.0,71.0,72,75,72,71,69,73,25,66
+3303,223245,Brian Fernández,22,FC Metz,171.0,70.0,72,80,88,68,66,78,25,58
+3309,143119,Mariano Pavone,35,Estudiantes de La Plata,181.0,81.0,72,72,55,76,57,62,29,80
+3322,215060,Nicolás Aguirre,26,Club Atlético Lanús,180.0,78.0,72,72,71,71,71,73,62,75
+3357,219167,Sergio Vittor,28,Racing Club de Avellaneda,189.0,86.0,72,73,59,61,63,67,70,78
+3381,207657,Fernando Barrientos,25,Club Atlético Lanús,174.0,70.0,72,77,68,57,71,71,61,69
+3386,220715,Ezequiel Ponce,20,LOSC Lille,178.0,78.0,72,80,77,71,55,72,28,62
+3399,204337,Gervasio Núñez,29,Atlético Tucumán,180.0,78.0,72,72,78,68,69,73,37,70
+3404,139058,Omar Pérez,36,Independiente Santa Fe,180.0,82.0,72,72,41,67,77,72,50,59
+3422,231478,Lautaro Martínez,19,Racing Club de Avellaneda,174.0,79.0,72,88,79,70,53,70,29,76
+3428,226616,Jonathan Galván,25,Colon de Santa Fe,177.0,69.0,72,78,67,56,55,57,72,78
+3444,215358,Marcelo Meli,25,Racing Club de Avellaneda,180.0,79.0,72,76,80,61,66,72,70,75
+3450,234816,Nicolás Gorosito,28,Getafe CF,186.0,79.0,72,73,68,51,60,54,71,74
+3472,226376,Alejandro Romero Gamarra,22,Club Atlético Huracán,171.0,67.0,72,82,83,65,66,77,29,48
+3483,153164,Alejandro Faurlín,30,Cruz Azul,185.0,79.0,72,72,42,59,72,63,66,74
+3484,158540,Cristian Campestrini,37,Chacarita Juniors,182.0,82.0,72,72,74,71,64,73,25,71
+3504,226385,Cristian Espinoza,22,Boca Juniors,172.0,70.0,72,82,77,65,67,76,28,51
+3515,202069,José Luis Fernández,29,Rosario Central,169.0,67.0,72,72,81,66,70,72,52,60
+3516,142677,Leandro Desábato,38,Estudiantes de La Plata,187.0,87.0,72,72,35,39,58,38,73,68
+3524,183895,Maxi Moralez,30,New York City Football Club,158.0,56.0,72,72,78,68,75,78,53,48
+3529,222041,Lucas Boyé,21,Torino,180.0,80.0,72,82,73,66,64,78,33,74
+3533,142938,Germán Denis,35,Club Atlético Lanús,184.0,89.0,72,72,37,75,61,62,28,69
+3568,184422,Luis Ardente,35,San Martín de San Juan,189.0,81.0,72,72,70,72,82,75,23,70
+3646,177537,Nicolás Bertolo,31,Banfield,179.0,75.0,72,72,68,67,71,75,37,64
+3655,178566,Javier García,30,Racing Club de Avellaneda,183.0,75.0,72,72,77,65,75,77,35,67
+3658,158088,Pablo Álvarez,33,Club Atlético Huracán,178.0,80.0,72,72,69,52,64,63,73,78
+3692,214933,Diego Rodríguez,28,Rosario Central,184.0,80.0,72,74,73,68,78,75,47,66
+3708,236441,Fabricio Bustos,21,Independiente,168.0,69.0,72,84,83,51,63,72,66,59
+3746,142756,Patricio Toranzo,35,Club Atlético Huracán,178.0,73.0,72,72,55,67,75,72,58,66
+3759,142762,Jonathan Bottinelli,32,Unión de Santa Fe,180.0,79.0,72,72,46,36,54,52,71,73
+3767,222124,Hernán Fredes,30,Defensa y Justicia,172.0,70.0,72,72,70,61,74,73,46,55
+3782,222644,Yamil Asad,22,Atlanta United FC,177.0,78.0,72,79,73,67,69,73,60,69
+3787,214965,Claudio Riaño,28,Necaxa,177.0,75.0,72,72,78,70,62,71,23,66
+3823,221634,Luciano Acosta,23,D.C. United,161.0,61.0,72,75,84,66,65,77,34,59
+3848,142794,Facundo Erpen,34,Club Atlas,180.0,78.0,72,72,65,53,55,54,70,76
+3861,217805,Alexis Martín Arias,24,Gimnasia y Esgrima La Plata,185.0,80.0,72,77,76,60,76,75,45,71
+3887,231128,Hernán Toledo,21,UD Las Palmas,180.0,72.0,72,81,80,68,66,77,49,68
+3901,201953,Juan Sánchez Miño,27,Independiente,177.0,76.0,72,73,71,70,74,72,68,68
+3904,219617,Joaquín Arzura,24,CA Osasuna,176.0,71.0,72,78,72,48,64,66,69,77
+3917,216036,Rafael Delgado,27,Defensa y Justicia,175.0,76.0,72,73,71,57,71,72,68,73
+3926,215015,Bruno Bianchi,28,Newell's Old Boys,184.0,79.0,72,72,62,34,53,59,73,71
+3927,219879,Matías Pisano,25,Club Tijuana,166.0,61.0,72,75,77,65,69,73,35,46
+3928,236007,Ezequiel Barco,18,Independiente,167.0,66.0,72,90,85,66,66,77,34,45
+3945,167661,Jesús Méndez,32,Deportivo Toluca,178.0,77.0,72,72,63,65,71,72,65,76
+3960,172019,Pablo Mouche,29,Banfield,177.0,72.0,72,72,80,69,68,74,22,62
+3969,212214,Augusto Solari,25,Racing Club de Avellaneda,180.0,80.0,72,75,83,59,69,72,49,71
+3991,218621,Facundo Sánchez,27,Estudiantes de La Plata,176.0,74.0,72,73,91,60,60,72,66,69
+3995,224510,Walter Bou,23,Boca Juniors,174.0,74.0,72,79,73,75,62,70,19,56
+4001,142592,Israel Damonte,35,Estudiantes de La Plata,176.0,72.0,71,71,61,58,70,70,69,66
+4069,205849,Esteban Andrada,26,Club Atlético Lanús,193.0,80.0,71,76,73,67,64,75,44,67
+4096,159520,Nereo Fernández,38,Unión de Santa Fe,195.0,85.0,71,71,66,71,62,70,43,78
+4099,157217,Neri Cardozo,30,Monterrey,173.0,69.0,71,71,80,62,72,73,60,72
+4110,215332,Carlos Auzqui,26,River Plate,180.0,74.0,71,72,82,71,67,69,37,70
+4132,188201,Tomás Costa,32,Bahía Blanca,186.0,77.0,71,71,59,56,71,60,61,77
+4143,199726,Marco Torsiglieri,29,Racing Club de Avellaneda,190.0,86.0,71,71,38,44,58,47,71,78
+4188,49212,Julián Speroni,38,Crystal Palace,186.0,80.0,71,71,74,70,67,73,43,67
+4203,221250,Gerónimo Poblete,24,FC Metz,173.0,63.0,71,78,69,52,67,70,65,69
+4204,193602,Maximiliano Coronel,28,Gimnasia y Esgrima La Plata,180.0,80.0,71,73,54,37,51,49,71,68
+4236,172620,Matías Cahais,29,Bahía Blanca,185.0,80.0,71,71,52,45,53,52,72,74
+4252,203859,Lucas Aveldaño,31,CD Tenerife,185.0,82.0,71,71,59,52,53,46,68,80
+4254,231507,Alexis Soto,23,Racing Club de Avellaneda,174.0,84.0,71,78,76,36,59,73,68,65
+4266,203863,Luis Fariña,26,CD Aves,177.0,72.0,71,73,73,64,68,75,52,56
+4268,169815,Carlos Luna,35,Club Atlético Tigre,179.0,81.0,71,71,60,71,65,67,27,66
+4270,203864,Bruno Zuculini,24,Hellas Verona,178.0,72.0,71,77,69,62,70,73,65,58
+4289,207454,Patricio Rodríguez,27,AEK Athens,168.0,62.0,71,71,78,64,70,73,35,42
+4294,232543,Sebastián Bertoli,39,Club Atlético Patronato,185.0,81.0,71,71,75,71,79,71,29,65
+4319,215144,Emanuel Insúa,26,Panathinaikos FC,182.0,82.0,71,74,73,58,62,68,69,74
+4323,210281,Cristian Pellerano,35,Tiburones Rojos de Veracruz,182.0,74.0,71,71,55,68,66,66,70,81
+4327,162411,Emanuel Villa,35,Querétaro,178.0,83.0,71,71,43,71,62,64,41,68
+4345,142705,Mariano González,36,Club Atlético Huracán,175.0,80.0,71,71,60,73,72,74,55,68
+4351,192370,Mauro Formica,29,U.N.A.M.,178.0,70.0,71,71,76,69,66,74,30,59
+4353,215155,Fernando Zuqui,25,Estudiantes de La Plata,170.0,65.0,71,74,68,63,70,74,59,68
+4358,215157,Federico Lértora,26,Belgrano de Córdoba,176.0,73.0,71,73,65,51,66,65,73,71
+4361,193141,Iván Pillud,31,Racing Club de Avellaneda,179.0,79.0,71,71,84,50,62,63,68,78
+4438,214671,Rodrigo Gómez,24,Deportivo Toluca,168.0,65.0,71,74,85,68,67,74,49,57
+4471,165784,Darío Bottinelli,30,CD America de Cali,167.0,67.0,71,71,57,66,73,71,34,66
+4485,235675,Mateo García,20,CA Osasuna,169.0,65.0,71,83,72,67,65,77,24,42
+4533,202154,Fabian Bordagaray,30,Defensa y Justicia,178.0,75.0,71,71,73,73,63,72,36,65
+4550,215216,Alexis Niz,29,Club Atlético Tigre,179.0,79.0,71,71,65,43,46,45,72,69
+4566,221619,Víctor Cabrera,24,Montreal Impact,182.0,72.0,71,74,71,38,53,63,71,70
+4578,215223,Walter Benítez,24,OGC Nice,191.0,91.0,71,78,71,69,65,74,47,70
+4586,165561,Cristian Villagra,31,Atlético Tucumán,177.0,73.0,71,71,79,56,67,68,69,70
+4589,210363,Lucas Wílchez,33,Arsenal de Sarandí,173.0,65.0,71,71,71,66,70,73,34,61
+4605,223422,Emanuel Loeschbor,30,Monarcas Morelia,180.0,76.0,71,71,60,39,43,47,70,71
+4632,171975,Gonzalo Bergessio,32,Vélez Sarsfield,179.0,74.0,71,71,65,69,61,66,31,75
+4642,227530,Damián Lemos,28,Club Atlético Patronato,178.0,82.0,71,71,67,40,60,62,72,78
+4651,214733,Maximiliano Cerato,29,Club León,171.0,68.0,71,71,91,60,62,73,22,56
+4652,224461,Walter Montoya,23,Sevilla FC,175.0,73.0,71,77,80,60,66,75,38,60
+4671,214993,Pablo Alvarado,31,Defensa y Justicia,182.0,81.0,71,71,58,35,49,59,72,72
+4679,191443,Federico Mancinelli,35,Club Atlético Huracán,181.0,80.0,71,71,48,43,50,60,71,75
+4747,153061,Gustavo Colman,32,Rosario Central,175.0,72.0,71,71,58,63,76,71,51,57
+4748,185061,Javier Morales,37,FC Dallas,175.0,64.0,71,71,59,73,73,67,40,56
+4750,153062,Víctor Figueroa,33,Newell's Old Boys,168.0,63.0,71,71,79,66,72,73,45,55
+4766,153066,Lucas Licht,36,Gimnasia y Esgrima La Plata,174.0,72.0,71,71,79,60,65,73,70,64
+4768,212715,Sebastián Palacios,25,Talleres de Cordoba,170.0,69.0,71,74,90,67,62,74,35,64
+4769,237291,Gustavo Blanco Leschuk,25,Shakhtar Donetsk,190.0,85.0,71,75,68,68,46,60,29,68
+4771,226797,Ignacio Malcorra,29,Club Tijuana,170.0,70.0,71,71,76,64,71,72,42,63
+4779,163056,Nereo Champagne,32,CD Leganés,190.0,88.0,71,71,70,68,66,71,38,72
+4787,179698,Leandro Grimi,32,Racing Club de Avellaneda,183.0,78.0,71,71,68,62,63,65,71,74
+4792,214772,Nicolás Pasquini,26,Club Atlético Lanús,172.0,76.0,71,73,76,64,71,72,63,64
+4818,215294,Cristian Menéndez,29,Tiburones Rojos de Veracruz,185.0,81.0,71,71,67,71,60,65,32,70
+4872,223243,Emanuel Aguilera,28,Club Tijuana,187.0,87.0,70,71,59,48,53,53,71,73
+4943,224796,Jorge Rodríguez,21,Banfield,187.0,84.0,70,77,64,29,38,46,71,66
+4948,215070,Guillermo Ortíz,24,Colon de Santa Fe,183.0,80.0,70,76,70,31,46,44,69,73
+4976,215082,Fabián Muñoz,25,Temperley,175.0,72.0,70,73,87,66,59,73,31,67
+4998,222511,Ezequiel Unsain,22,Defensa y Justicia,188.0,83.0,70,77,78,64,73,74,42,60
+5032,202811,Emiliano Martinez,24,Getafe CF,193.0,85.0,70,76,71,68,73,72,58,67
+5050,211263,Lisandro Magallán,23,Boca Juniors,185.0,80.0,70,77,58,38,48,59,69,74
+5075,232517,Nicolás Silva,27,Club Atlético Huracán,163.0,58.0,70,70,86,52,67,76,17,42
+5077,222022,Leonel Di Plácido,23,Club Atlético Lanús,173.0,71.0,70,79,83,45,64,72,63,63
+5094,226636,Nicolás Sánchez,25,Godoy Cruz,180.0,70.0,70,73,76,58,70,69,44,63
+5095,232524,Nicolás Romat,29,Atlético Tucumán,182.0,82.0,70,70,65,49,56,63,72,74
+5097,215117,Leandro Desábato,27,Vélez Sarsfield,176.0,76.0,70,72,69,52,65,67,67,74
+5102,142670,Rodrigo Braña,38,Estudiantes de La Plata,169.0,70.0,70,70,48,58,69,69,69,60
+5116,215380,Guido Milan,29,Tiburones Rojos de Veracruz,193.0,92.0,70,70,34,34,42,32,72,77
+5129,223065,Gustavo Toledo,27,Colon de Santa Fe,171.0,72.0,70,70,81,47,61,70,64,65
+5143,203871,Valentín Viola,25,Independiente Medellín,182.0,76.0,70,72,70,68,67,70,26,68
+5152,233825,Nicolás Leguizamón,22,Colon de Santa Fe,180.0,75.0,70,79,72,68,45,67,27,74
+5164,228708,Lucas Martínez Quarta,21,River Plate,183.0,78.0,70,83,69,53,62,65,68,70
+5174,223335,Lucas Diarte,24,Estudiantes de La Plata,175.0,73.0,70,76,64,30,47,61,71,67
+5193,215147,Lautaro Giannetti,23,Vélez Sarsfield,184.0,79.0,70,79,65,37,38,46,72,72
+5209,190575,Franco Zuculini,26,Hellas Verona,176.0,68.0,70,70,68,57,68,70,64,66
+5210,192367,Ignacio Canuto,31,Club Atlético Lanús,182.0,76.0,70,70,55,46,50,60,68,74
+5222,227186,Augusto Batalla,21,River Plate,185.0,79.0,70,80,72,69,65,73,42,62
+5236,165494,Franco Niell,34,Gimnasia y Esgrima La Plata,162.0,56.0,70,70,89,66,62,72,37,51
+5263,215165,Ciro Rius,28,Defensa y Justicia,171.0,73.0,70,70,77,59,69,74,34,65
+5267,210814,Julián Velázquez,26,Cruz Azul,184.0,80.0,70,72,66,43,47,53,71,71
+5273,142720,Carlos Araujo,35,Club Atlético Huracán,172.0,69.0,70,70,68,45,64,70,70,67
+5278,219521,Manuel García,28,Club Atlético Huracán,188.0,76.0,70,70,71,65,64,73,45,67
+5282,205186,Paulo Gazzaniga,25,Tottenham Hotspur,196.0,90.0,70,75,67,73,84,70,64,68
+5305,223881,Julio Chiarini,35,Club Atlético Tigre,181.0,78.0,70,70,70,65,73,73,47,73
+5313,192906,Luis Miguel Rodríguez,32,Atlético Tucumán,168.0,71.0,70,70,70,71,70,74,22,61
+5334,165520,Óscar Scarione,31,Göztepe,179.0,71.0,70,70,67,69,70,71,36,59
+5367,207769,Pablo Nicolás Caballero,31,UD Almería,191.0,79.0,70,70,38,70,54,61,31,64
+5442,214447,Sergio López,28,CD Once Caldas Manizales,170.0,69.0,70,70,67,59,74,70,37,55
+5459,215987,Facundo Oreja,35,Gimnasia y Esgrima La Plata,169.0,73.0,70,70,70,41,62,60,71,63
+5514,214979,Juan Musso,23,Racing Club de Avellaneda,191.0,93.0,70,77,71,67,71,75,44,69
+5519,219844,Franco Bellocq,23,Bahía Blanca,175.0,74.0,70,77,66,50,63,67,68,70
+5525,226757,Matías Escudero,28,San Martín de San Juan,185.0,79.0,70,71,64,23,39,43,71,67
+5562,216015,Néstor Moiraghi,32,Asociacion Deportivo Cali,179.0,79.0,70,70,55,32,40,44,71,69
+5581,123603,Hugo Campagnaro,37,Pescara,181.0,85.0,70,70,46,39,52,52,70,74
+5605,229595,Lucas Rodríguez,20,Estudiantes de La Plata,168.0,64.0,70,81,77,63,64,72,52,58
+5623,220128,Jonatan Cristaldo,28,Vélez Sarsfield,175.0,76.0,70,70,76,69,60,70,29,65
+5630,215266,Lucas Melano,24,Estudiantes de La Plata,186.0,81.0,70,76,90,66,63,67,30,73
+5633,226787,Santiago Rosales,22,Racing Club de Avellaneda,180.0,69.0,70,80,83,61,65,74,22,58
+5650,215017,Guillermo Cosaro,27,Club Atlético Tigre,177.0,72.0,70,70,75,37,59,66,69,75
+5666,214765,Marcelo Herrera,25,Club Atlético Lanús,185.0,78.0,70,74,68,48,62,61,69,71
+5697,232692,Guillermo Acosta,28,Atlético Tucumán,170.0,65.0,70,70,78,56,66,71,59,71
+5726,236287,Nicolás Ibáñez,22,Gimnasia y Esgrima La Plata,180.0,70.0,70,75,74,69,54,64,24,69
+5749,213253,Hernán Grana,32,FC Dallas,170.0,68.0,69,69,76,53,62,70,66,71
+5763,223495,Iván Rossi,23,River Plate,183.0,76.0,69,78,73,51,60,65,71,74
+5772,223241,Marcelo Benítez,26,Belgrano de Córdoba,183.0,81.0,69,71,77,44,62,62,65,70
+5776,220938,Jorge Correa,24,Vélez Sarsfield,170.0,70.0,69,74,77,70,63,72,27,60
+5780,198156,Leandro Marín,25,FC Lausanne-Sports,181.0,78.0,69,71,70,51,61,66,66,74
+5833,198426,Gonzalo Castellani,29,Defensa y Justicia,183.0,76.0,69,69,67,68,72,71,42,74
+5850,208158,Federico Andrada,23,Vélez Sarsfield,180.0,76.0,69,75,75,67,65,69,27,67
+5851,224542,Nery Leyes,27,Newell's Old Boys,181.0,78.0,69,69,65,44,60,60,69,78
+5865,188194,Luis Ibáñez,28,Kardemir Karabükspor,170.0,73.0,69,69,80,69,67,75,64,68
+5872,215076,Lorenzo Faravelli,24,Gimnasia y Esgrima La Plata,172.0,67.0,69,74,75,65,64,71,63,67
+5881,219174,Ramiro Carrera,25,Arsenal de Sarandí,182.0,72.0,69,72,82,66,66,66,43,71
+5884,215335,Maximiliano Núñez,30,CD Los Millionarios Bogota,170.0,69.0,69,69,86,61,67,67,48,54
+5918,139057,Clemente Rodríguez,35,Colon de Santa Fe,167.0,65.0,69,69,72,57,64,67,66,69
+5929,221747,Gonzalo Díaz,27,Defensa y Justicia,169.0,72.0,69,69,79,56,63,74,36,52
+5968,172094,Martín Bravo,30,Tiburones Rojos de Veracruz,168.0,72.0,69,69,75,67,66,70,33,68
+5978,232514,Gabriel Carabajal,25,San Martín de San Juan,178.0,75.0,69,72,70,63,63,72,31,61
+5979,156483,Cristian Lucchetti,39,Atlético Tucumán,182.0,69.0,69,69,70,65,75,75,43,62
+5987,233029,Rodrigo Aliendro,26,Atlético Tucumán,175.0,74.0,69,70,79,64,62,71,42,68
+5988,194885,Cristian Erbes,27,Chacarita Juniors,172.0,75.0,69,70,67,54,65,68,70,64
+5994,215111,Gonzalo Verón,27,New York Red Bulls,178.0,76.0,69,69,83,62,64,70,35,57
+6012,233292,Miguel Barbieri,23,Racing Club de Avellaneda,181.0,79.0,69,76,63,33,39,50,67,75
+6019,152910,Cristian Nasuti,34,Bahía Blanca,181.0,84.0,69,69,31,40,52,46,69,68
+6045,215123,Alan Aguerre,26,Vélez Sarsfield,181.0,80.0,69,73,67,70,60,69,46,68
+6047,228179,Alexis Castro,22,San Lorenzo de Almagro,176.0,71.0,69,79,77,66,65,71,63,62
+6050,213588,Alejandro Sánchez,30,Atlético Tucumán,187.0,84.0,69,69,67,64,69,74,21,67
+6069,215130,Nelson Ibáñez,35,Newell's Old Boys,185.0,85.0,69,69,74,65,76,72,45,64
+6072,202331,Facundo Quignon,24,San Lorenzo de Almagro,174.0,75.0,69,76,69,53,65,64,67,71
+6092,219491,Rodrigo Erramuspe,27,Independiente Medellín,187.0,81.0,69,72,51,33,39,42,70,72
+6119,224876,Marcos Curado,22,Arsenal de Sarandí,187.0,80.0,69,75,57,36,39,38,68,74
+6123,215149,Lucas Ceballos,30,Colon de Santa Fe,166.0,67.0,69,69,78,44,64,69,64,59
+6137,226162,Emiliano Buendía,20,C.D. Leonesa S.A.D.,170.0,65.0,69,76,71,61,70,70,61,58
+6142,217203,Leonardo Sánchez,30,Unión de Santa Fe,190.0,85.0,69,69,38,34,37,42,71,74
+6154,165493,Nicolás Navarro,32,San Lorenzo de Almagro,191.0,87.0,69,69,69,68,68,69,51,68
+6189,215169,Facundo Castillón,31,Club Atlético Lanús,173.0,71.0,69,69,81,66,61,73,27,57
+6195,179842,José San Román,28,Newell's Old Boys,172.0,70.0,69,69,65,21,52,62,72,67
+6206,214661,Gaspar Iñíguez,23,Udinese,172.0,76.0,69,76,67,54,66,70,64,69
+6207,162949,Emiliano Armenteros,31,Santos Laguna,180.0,78.0,69,69,64,67,71,69,52,60
+6216,193414,Nicolás Colazo,26,Gimnasia y Esgrima La Plata,175.0,72.0,69,69,81,63,68,71,66,66
+6223,214665,Juan Ramírez,24,Talleres de Cordoba,174.0,68.0,69,73,76,58,65,75,54,60
+6224,158089,Pablo Ledesma,33,Colon de Santa Fe,178.0,79.0,69,69,53,54,70,66,62,72
+6231,215178,Erik Godoy,23,Belgrano de Córdoba,184.0,79.0,69,76,67,32,52,50,66,78
+6244,215183,Ezequiel Rescaldani,25,SD Huesca,191.0,83.0,69,74,42,70,52,57,35,70
+6272,215192,Gastón Díaz,29,Vélez Sarsfield,175.0,75.0,69,69,79,56,71,71,60,69
+6310,219553,Claudio Aquino,25,Unión de Santa Fe,173.0,78.0,69,71,73,67,66,69,37,67
+6348,215213,Axel Werner,21,Atlético Madrid,191.0,86.0,69,81,78,67,74,70,44,64
+6354,143025,Emiliano Papa,35,Arsenal de Sarandí,169.0,67.0,69,69,73,46,67,67,66,58
+6382,143032,Ismael Blanco,34,Atlético Tucumán,179.0,78.0,69,69,52,70,63,70,42,61
+6398,190651,Miguel Ángel Martínez,33,Querétaro,187.0,89.0,69,69,39,50,45,36,70,77
+6435,220358,Facundo Monteseirín,22,Arsenal de Sarandí,184.0,82.0,69,76,54,35,47,58,69,70
+6451,224459,Víctor Salazar,24,San Lorenzo de Almagro,170.0,67.0,69,75,90,47,55,69,65,67
+6459,224205,Mariano Barbieri,26,Belgrano de Córdoba,163.0,64.0,69,70,76,63,64,72,27,47
+6465,217807,Javier Mendoza,24,Chacarita Juniors,171.0,70.0,69,72,81,60,62,72,29,55
+6478,215249,Rodrigo Depetris,27,Club Atlético Tigre,177.0,71.0,69,69,76,66,65,69,21,58
+6483,215250,César Rigamonti,30,Vélez Sarsfield,188.0,87.0,69,69,67,64,62,69,44,74
+6545,234468,Emanuel Reynoso,21,Talleres de Cordoba,177.0,65.0,69,79,65,55,67,73,40,54
+6569,185064,Fabián Espíndola,32,Albacete Balompié,178.0,80.0,69,69,73,69,65,71,29,71
+6582,215020,Juan Ignacio Cavallaro,23,San Lorenzo de Almagro,171.0,68.0,69,77,77,66,65,71,36,60
+6594,212208,Leonel Galeano,25,Godoy Cruz,184.0,84.0,69,74,61,34,55,56,69,71
+6598,212721,Nahuel Zárate,24,Atlético Tucumán,180.0,73.0,69,72,76,46,59,65,67,65
+6620,232695,Franco Sbuttoni,28,Atlético Tucumán,190.0,84.0,69,69,44,28,44,44,68,74
+6624,214776,Óscar Benítez,24,Boca Juniors,184.0,83.0,69,74,77,63,66,72,52,69
+6665,143107,Marcos Gelabert,35,San Martín de San Juan,176.0,72.0,68,68,55,53,67,69,59,66
+6686,227591,Alexis Canelo,25,Deportivo Toluca,180.0,83.0,68,72,81,68,62,71,26,63
+6687,143112,Pablo Lugüercio,35,Estudiantes de La Plata,177.0,79.0,68,68,85,64,60,68,38,66
+6692,223498,Emanuel Cecchini,20,Málaga CF,179.0,78.0,68,79,73,66,66,70,63,64
+6698,190987,Luciano Civelli,30,Banfield,187.0,84.0,68,68,72,64,66,66,64,74
+6707,220429,Gastón Campi,26,Estudiantes de La Plata,193.0,87.0,68,72,47,45,56,58,66,77
+6718,223249,Gabriel Arias,29,Defensa y Justicia,187.0,91.0,68,68,68,62,58,76,38,67
+6755,143133,Diego Herner,33,CD America de Cali,186.0,83.0,68,68,34,38,40,41,68,69
+6794,237604,Alan Franco,20,Independiente,183.0,77.0,68,79,63,29,32,41,71,70
+6805,221990,Yonathan Cabral,25,Atlético Tucumán,188.0,93.0,68,74,52,29,44,45,68,72
+6873,225591,Leonardo Suárez,21,Villarreal CF,167.0,60.0,68,79,71,65,68,76,22,41
+6882,215352,Martín Luque,24,San Martín de San Juan,176.0,65.0,68,74,81,62,61,72,30,52
+6937,232516,Facundo Silva,26,Colon de Santa Fe,174.0,73.0,68,69,75,58,61,73,46,60
+6951,211272,Claudio Corvalán,28,Arsenal de Sarandí,179.0,78.0,68,68,74,46,56,61,63,76
+7007,183894,Matías Sánchez,29,Melbourne Victory,173.0,71.0,68,68,69,50,61,66,65,65
+7070,231013,Tomás Andrade,20,River Plate,174.0,67.0,68,82,80,53,60,73,25,60
+7086,226408,Fernando Brandán,27,Melbourne City,168.0,63.0,68,68,88,63,57,74,31,46
+7178,223615,Christian Chimino,29,Club Atlético Huracán,178.0,72.0,68,68,77,46,55,62,63,68
+7181,215168,Juan Garro,24,Godoy Cruz,179.0,71.0,68,75,70,64,55,68,22,62
+7185,165505,Carlos Matheu,32,Club Atlético Huracán,182.0,82.0,68,68,67,25,55,56,67,70
+7186,241025,Leonardo Heredia,20,Colon de Santa Fe,185.0,79.0,68,76,73,66,63,71,34,64
+7190,219523,Jonás Aguirre,25,Puebla,175.0,69.0,68,70,94,60,60,71,48,60
+7199,178565,Bruno Urribarri,30,Club Atlético Patronato,168.0,64.0,68,68,82,47,66,66,60,59
+7233,234380,Giuliano Modica,26,1. FC Kaiserslautern,184.0,83.0,68,70,59,35,37,48,68,72
+7283,232344,Emanuel Dening,28,Evkur Yeni Malatyaspor,176.0,70.0,68,68,74,68,57,73,18,53
+7290,214937,Lucas Villalba,22,Club Atlético Huracán,177.0,73.0,68,73,79,45,64,63,61,65
+7302,214940,Sergio Ojeda,25,Bahía Blanca,183.0,85.0,68,74,50,34,41,42,67,74
+7305,233372,Bautista Merlini,21,San Lorenzo de Almagro,165.0,62.0,68,77,82,59,66,71,42,53
+7327,229537,Tomás Cardona,21,Godoy Cruz,188.0,80.0,68,78,61,45,44,54,67,76
+7349,237221,Juan Foyth,19,Tottenham Hotspur,187.0,69.0,68,86,73,45,53,68,67,66
+7367,143018,Germán Herrera,33,Rosario Central,180.0,83.0,68,68,69,67,58,64,47,75
+7371,190634,Gastón Sauro,27,Columbus Crew SC,190.0,84.0,68,71,52,33,49,52,66,75
+7417,185270,Juan Carlos Blengio,37,Club Atlético Tigre,185.0,88.0,68,68,33,39,49,41,69,66
+7442,227772,Gastón Giménez,25,Godoy Cruz,188.0,88.0,68,69,64,62,67,70,60,79
+7451,214206,Germán Cano,29,Pachuca,176.0,72.0,68,68,68,68,60,65,28,60
+7496,190918,Gastón Cellerino,31,Deportivo Pasto,185.0,80.0,68,68,57,69,49,60,35,74
+7503,215240,Matías Fissore,26,San Martín de San Juan,165.0,63.0,68,71,66,50,58,73,61,54
+7509,227274,David Barbona,22,Atlético Tucumán,175.0,71.0,68,76,82,61,62,69,36,60
+7510,227275,Agustín Rossi,21,Boca Juniors,194.0,94.0,68,80,63,65,55,69,44,71
+7511,216012,Andrés Imperiale,30,San Jose Earthquakes,185.0,78.0,68,68,55,23,51,49,65,75
+7523,220624,Lucas Acosta,22,Belgrano de Córdoba,187.0,84.0,68,77,69,58,70,72,60,69
+7530,216018,Jonatan Blanco,30,Bahía Blanca,186.0,84.0,68,68,64,57,60,62,69,79
+7536,216020,Leonardo Gil,26,Rosario Central,171.0,70.0,68,71,70,51,74,67,67,68
+7545,214998,Mauro Bogado,32,Club Atlético Huracán,170.0,68.0,68,68,68,63,65,68,63,63
+7555,215001,Francisco Mattia,29,San Martín de San Juan,190.0,77.0,68,69,39,27,50,32,70,64
+7569,221661,Guido Vadalá,20,Boca Juniors,168.0,65.0,68,78,78,58,63,77,20,48
+7572,215262,Fernando Márquez,29,Defensa y Justicia,184.0,86.0,68,68,77,63,63,69,33,73
+7599,215013,Santiago Zurbriggen,27,Club Atlético Lanús,178.0,69.0,68,71,71,41,55,54,67,74
+7600,216037,Nahuel Valentini,28,Real Oviedo,184.0,80.0,68,69,53,27,40,54,67,74
+7630,226798,Mauricio Martínez,24,Rosario Central,185.0,82.0,68,74,66,51,62,65,64,76
+7663,158966,Gastón Machín,34,Argentinos Juniors,172.0,68.0,68,68,73,58,71,70,60,62
+7666,207864,Emanuel Molina,30,Atlético Tucumán,181.0,75.0,68,68,70,63,67,72,30,63
+7698,219647,Agustín Vuletich,25,Águilas Doradas,185.0,79.0,68,71,68,65,54,65,30,73
+7702,214784,Jorge Pereyra Díaz,26,Club León,178.0,72.0,67,67,73,62,66,66,51,62
+7735,220937,Matías Pérez Acuña,23,Vélez Sarsfield,176.0,72.0,67,74,72,33,60,65,65,66
+7746,212747,Tomás Martínez,22,Houston Dynamo,171.0,66.0,67,77,72,55,68,76,39,50
+7751,224524,Esteban Burgos,25,AD Alcorcón,191.0,80.0,67,71,45,32,40,49,69,74
+7816,176920,Miguel Angel Torrén,28,Argentinos Juniors,178.0,80.0,67,68,73,45,51,55,69,70
+7829,176924,Federico González,30,Puebla,178.0,79.0,67,67,67,64,62,70,31,68
+7833,215325,Mauricio Rosales,25,Bahía Blanca,174.0,74.0,67,70,69,35,57,60,65,65
+7835,228893,Manuel Guanini,21,Gimnasia y Esgrima La Plata,181.0,80.0,67,75,33,25,42,38,67,77
+7898,210219,Emanuel Herrera,30,Lobos de la BUAP,184.0,84.0,67,67,61,66,52,64,23,67
+7903,231212,Esteban Rolón,22,Málaga CF,178.0,74.0,67,80,64,51,61,62,62,68
+7935,235827,Gabriel Gudiño,25,San Lorenzo de Almagro,170.0,67.0,67,70,75,65,65,65,55,57
+8024,224329,Mauricio Carrasco,29,Club Atlético Patronato,173.0,71.0,67,67,78,64,65,67,21,56
+8113,210784,Diego Morales,30,Colon de Santa Fe,172.0,68.0,67,67,70,56,66,69,30,54
+8124,170594,Leandro Díaz,31,Club Atlético Huracán,181.0,74.0,67,67,63,58,64,65,61,66
+8148,215143,Juan Ignacio Sills,30,Newell's Old Boys,180.0,70.0,67,67,65,34,58,60,72,72
+8149,228711,Brian Mansilla,20,Racing Club de Avellaneda,180.0,76.0,67,82,92,62,57,69,26,61
+8157,223593,Javier Correa,24,Godoy Cruz,187.0,85.0,67,72,64,67,44,63,26,71
+8163,226668,Nicolás Mazzola,27,Gimnasia y Esgrima La Plata,188.0,81.0,67,68,55,68,42,62,27,74
+8174,226671,Federico Fattori,24,Newell's Old Boys,175.0,70.0,67,70,69,54,65,67,60,66
+8187,142962,Enrique Bologna,35,River Plate,189.0,87.0,67,67,68,67,53,70,45,66
+8189,217202,Lautaro Rinaldi,23,Brescia,180.0,75.0,67,71,72,64,55,67,23,71
+8213,215160,Fabrizio Angileri,23,Godoy Cruz,184.0,84.0,67,72,72,58,61,67,37,67
+8214,165496,Gonzalo Prósperi,32,San Martín de San Juan,179.0,78.0,67,67,69,50,61,61,70,67
+8231,219518,Pablo Becker,24,Rosario Central,173.0,72.0,67,72,81,57,67,68,29,60
+8274,232582,Walter Andrade,32,Club Atlético Patronato,190.0,86.0,67,67,52,32,35,37,66,72
+8314,219536,Ignacio Pussetto,21,Club Atlético Huracán,180.0,74.0,67,78,76,64,53,70,22,64
+8331,177299,Adrián Gabbarini,31,Bahía Blanca,184.0,83.0,67,67,62,63,74,63,46,76
+8357,232346,Daniel Imperiale,29,Club Atlético Tigre,190.0,77.0,67,67,60,58,59,63,63,72
+8389,167329,Mauro Cejas,31,Unión de Santa Fe,174.0,74.0,67,67,67,67,66,68,39,71
+8402,143013,Paulo Ferrari,35,Rosario Central,170.0,69.0,67,67,75,53,62,68,64,63
+8422,235177,Maximiliano Correa,27,Godoy Cruz,169.0,72.0,67,68,60,65,65,62,59,65
+8480,221627,Hernán Hechalar,29,Atlético Tucumán,173.0,72.0,67,67,79,64,62,69,28,60
+8483,215228,Cristian Lema,26,Belgrano de Córdoba,190.0,90.0,67,70,34,36,43,34,68,75
+8525,208838,Andrés Romero,27,Montreal Impact,178.0,72.0,67,67,73,63,62,70,43,52
+8526,215238,Walter Serrano,30,Godoy Cruz,178.0,78.0,67,67,68,58,65,68,57,74
+8553,235467,Marcelino Moreno,23,Club Atlético Lanús,168.0,65.0,67,73,79,63,62,73,32,51
+8570,212687,Luis Solignac,26,Chicago Fire Soccer Club,184.0,78.0,67,68,76,62,60,66,49,72
+8584,215251,Guido Herrera,25,Talleres de Cordoba,188.0,84.0,67,71,69,62,66,72,45,65
+8585,231891,Damián Arce,25,Unión de Santa Fe,178.0,71.0,67,67,73,60,65,67,37,59
+8653,142818,Fabián Cubero,38,Vélez Sarsfield,175.0,72.0,67,67,55,56,62,65,72,59
+8654,143586,Gastón Aguirre,35,Temperley,178.0,79.0,67,67,53,42,43,43,67,66
+8671,228838,Eric Remedi,22,Banfield,169.0,72.0,67,77,58,50,64,62,63,65
+8686,211433,Fernando Evangelista,25,Boca Juniors,184.0,82.0,67,71,68,52,61,64,66,69
+8714,226545,Ezequiel Garré,35,Club Atlético Huracán,170.0,74.0,67,67,65,54,68,64,63,65
+8721,143603,Germán Ré,35,Chacarita Juniors,180.0,76.0,67,67,64,46,48,45,66,73
+8729,216053,Ramiro Costa,24,Temperley,190.0,86.0,67,71,58,62,52,64,35,67
+8735,156662,Adrían Bastía,38,Colon de Santa Fe,178.0,74.0,67,67,51,64,64,68,65,68
+8759,232698,Matías Garrido,31,Club Atlético Patronato,170.0,67.0,67,67,69,63,68,67,52,56
+8773,143101,Marcelo Carrusca,33,Melbourne City,177.0,70.0,67,67,66,64,69,71,51,46
+8811,224008,Maximiliano Rolón,22,Arsenal de Sarandí,171.0,64.0,66,74,76,63,58,68,30,48
+8930,226086,Ángel González,23,Godoy Cruz,169.0,70.0,66,71,80,57,55,70,34,59
+8939,219688,Marcos Mauro López,26,Cádiz C.F.,187.0,80.0,66,71,59,39,48,56,66,66
+9040,232255,Agustín Bouzat,23,Boca Juniors,173.0,70.0,66,74,75,62,54,73,36,65
+9076,226632,Pablo Aguilar,32,San Martín de San Juan,166.0,62.0,66,66,71,55,56,62,64,54
+9078,215113,Nicolás Bertocchi,28,Club Atlético Tigre,192.0,82.0,66,66,53,64,64,63,62,72
+9089,224330,Nicolás Stefanelli,23,AIK Solna,166.0,71.0,66,74,75,67,57,71,21,57
+9117,207440,Franco Fragapane,24,Unión de Santa Fe,167.0,65.0,66,71,75,63,63,70,32,50
+9124,224337,Matías Orihuela,25,Club Atlético Tigre,177.0,70.0,66,70,69,51,63,69,60,50
+9194,215139,Emanuel Olivera,27,Colon de Santa Fe,180.0,73.0,66,69,58,38,39,38,68,68
+9204,231524,Tomás Pochettino,21,Defensa y Justicia,178.0,71.0,66,76,64,49,75,64,43,63
+9207,226405,Adrián Arregui,24,Temperley,176.0,74.0,66,69,70,56,55,63,65,75
+9208,231525,Luciano Perdomo,20,Gimnasia y Esgrima La Plata,170.0,74.0,66,76,61,42,52,63,68,65
+9220,224104,Damián Martínez,27,Unión de Santa Fe,176.0,77.0,66,67,74,55,57,64,62,68
+9262,192369,Hernán Bernardello,30,Montreal Impact,174.0,74.0,66,66,48,52,68,64,62,61
+9306,234108,Gonzalo Maroni,18,Boca Juniors,170.0,67.0,66,80,77,49,63,73,37,51
+9331,224386,Mauricio Tévez,20,Newell's Old Boys,170.0,69.0,66,77,83,60,62,70,25,58
+9337,193412,David Drocco,28,Arsenal de Sarandí,167.0,70.0,66,66,67,55,66,70,51,73
+9355,142728,Leonardo Di Lorenzo,36,Temperley,176.0,73.0,66,66,68,55,61,66,56,63
+9360,162952,Mauricio Caranta,38,Talleres de Cordoba,184.0,77.0,66,66,55,70,67,63,48,68
+9380,214668,Leandro Barrera,26,San Jose Earthquakes,173.0,77.0,66,67,80,58,61,66,46,58
+9388,214669,Marcos Figueroa,27,Temperley,172.0,72.0,66,67,68,64,57,67,23,58
+9393,215182,Iván Bella,27,Arsenal de Sarandí,179.0,78.0,66,66,76,56,64,68,55,64
+9432,235159,Gabriel Ramírez,22,Talleres de Cordoba,177.0,69.0,66,73,67,60,63,65,60,75
+9433,235927,Pablo Cuadra,22,Racing Club de Avellaneda,172.0,64.0,66,76,78,63,50,70,24,59
+9436,215193,Lucas Menossi,23,Club Atlético Tigre,168.0,65.0,66,74,76,45,67,68,63,54
+9457,231070,Bruno Pittón,24,Unión de Santa Fe,174.0,70.0,66,72,72,54,56,59,67,48
+9480,229539,Ezequiel Montagna,23,Temperley,174.0,73.0,66,73,81,63,62,65,41,58
+9549,215990,Óliver Benítez,26,Gimnasia y Esgrima La Plata,186.0,79.0,66,70,52,32,38,33,66,73
+9570,215993,Dardo Miloc,26,Atlético Tucumán,177.0,74.0,66,70,65,43,61,64,62,69
+9593,191165,Ramón Lentini,28,Bahía Blanca,182.0,85.0,66,66,76,63,59,65,30,66
+9611,231360,Jalil Elías,21,Newell's Old Boys,180.0,69.0,66,74,72,46,60,61,63,67
+9637,215239,Jacobo Mansilla,30,Club Atlético Tigre,179.0,74.0,66,66,77,59,68,70,47,72
+9647,228809,Agustín Doffo,22,Vélez Sarsfield,179.0,74.0,66,75,72,57,67,67,27,47
+9660,214988,Leonel Miranda,23,Defensa y Justicia,173.0,70.0,66,74,79,61,65,68,55,65
+9711,215256,Renzo Saravia,24,Racing Club de Avellaneda,178.0,70.0,66,72,75,30,48,62,63,77
+9743,234463,Nazareno Solís,23,Club Atlético Huracán,170.0,70.0,66,75,82,63,57,71,26,40
+9747,143073,Iván Furios,38,Club Atlético Patronato,185.0,85.0,66,66,46,32,46,45,64,68
+9792,219625,Facundo Cardozo,22,Arsenal de Sarandí,182.0,81.0,66,72,70,32,44,51,65,74
+9795,214762,Nicolás Avellaneda,24,Club Atlético Lanús,191.0,77.0,66,74,66,62,64,71,52,62
+9829,143601,Mauro Rosales,36,Vancouver Whitecaps FC,173.0,75.0,66,66,54,59,68,67,42,49
+9850,214774,Jorge Valdez Chamorro,23,Club Atlético Lanús,176.0,72.0,66,73,80,60,61,68,58,65
+9867,232697,Lautaro Geminiani,26,Club Atlético Patronato,178.0,74.0,66,69,76,33,54,66,62,64
+9889,224511,Ezequiel Bonifacio,23,Gimnasia y Esgrima La Plata,170.0,70.0,66,73,71,36,50,64,65,58
+9928,232712,Bautista Cascini,20,Estudiantes de La Plata,171.0,68.0,65,77,72,54,61,67,62,63
+9939,223499,Mauricio Asenjo,22,Banfield,187.0,87.0,65,72,56,67,39,64,25,69
+9992,214809,Sebastián Luna,29,Belgrano de Córdoba,178.0,78.0,65,65,76,64,62,65,58,69
+9998,219931,Diego Mendoza,24,Club Atlético Huracán,186.0,86.0,65,70,67,64,54,62,32,62
+10042,188968,Gonzalo Marinelli,28,Colon de Santa Fe,180.0,76.0,65,68,65,62,66,67,35,65
+10045,235049,Ian Escobar,21,Talleres de Cordoba,172.0,63.0,65,74,84,31,46,56,62,53
+10075,224817,Rafael Barrios,24,Defensa y Justicia,176.0,78.0,65,71,69,34,54,60,63,65
+10130,232770,Santiago Colombatto,20,Perugia,176.0,71.0,65,79,66,48,68,67,47,52
+10166,226123,Hernán Da Campo,22,Rosario Central,175.0,70.0,65,72,72,60,61,64,49,66
+10178,226382,Lucas Villarruel,26,Bahía Blanca,171.0,71.0,65,69,71,40,59,64,60,64
+10215,226390,Renzo Vera,34,Club Atlético Patronato,183.0,86.0,65,65,48,47,48,45,63,72
+10254,231264,Thomas Rodríguez,21,Genoa,183.0,76.0,65,77,71,54,59,68,45,60
+10257,228961,Mauro Pitton,22,Unión de Santa Fe,174.0,70.0,65,70,68,47,59,61,63,63
+10266,226403,Federico Crivelli,35,Club Atlético Tigre,185.0,82.0,65,65,64,62,67,57,49,68
+10267,226659,Joel Amoroso,29,Belgrano de Córdoba,185.0,70.0,65,65,72,60,58,63,31,65
+10299,222315,Gabriel Esparza,24,Puebla,168.0,69.0,65,70,85,55,60,66,47,52
+10302,215148,Mariano Bíttolo,27,Albacete Balompié,174.0,66.0,65,66,77,37,50,59,62,58
+10312,222830,Fausto Grillo,24,Vélez Sarsfield,181.0,78.0,65,69,74,36,48,62,65,69
+10328,226675,Federico Lanzillotta,24,Argentinos Juniors,185.0,80.0,65,73,66,65,61,68,23,63
+10348,213624,Sebastián López,31,Jaguares Fútbol Club,187.0,81.0,65,65,62,65,56,62,46,64
+10354,223097,Franco Cristaldo,20,Defensa y Justicia,170.0,69.0,65,72,74,53,63,66,59,63
+10361,222587,Franco Escobar,22,Newell's Old Boys,182.0,75.0,65,73,72,36,49,61,65,66
+10368,221053,Elias Gómez,23,Rosario Central,176.0,72.0,65,70,74,34,50,61,63,66
+10382,158592,Germán Montoya,34,Belgrano de Córdoba,185.0,83.0,65,65,69,55,65,59,43,68
+10387,215170,Rodrigo Salinas,31,Ettifaq FC,188.0,83.0,65,65,51,65,44,60,29,67
+10391,142979,Juan Quiroga,35,Belgrano de Córdoba,180.0,79.0,65,65,65,51,58,53,66,70
+10394,214659,Nicolás Freire,23,PEC Zwolle,186.0,80.0,65,73,54,29,37,48,64,72
+10398,232067,Neri Bandiera,27,Belgrano de Córdoba,172.0,65.0,65,65,76,63,48,69,21,43
+10435,226446,Matías Giordano,37,Club Atlético Huracán,189.0,87.0,65,65,62,64,65,61,37,76
+10436,236430,Martín Lucero,27,Banfield,187.0,81.0,65,66,69,59,61,69,32,55
+10446,227216,Ignacio Boggino,31,Temperley,187.0,82.0,65,65,37,24,37,38,66,72
+10460,222611,Denis Rodríguez,21,River Plate,171.0,67.0,65,75,70,60,65,67,50,55
+10492,224410,Adrián Scifo,29,Temperley,180.0,74.0,65,65,72,33,55,53,62,69
+10499,215196,Martín Galmarini,35,Club Atlético Tigre,180.0,78.0,65,65,64,59,67,67,62,72
+10549,185255,Gonzalo Zárate,32,FC Lausanne-Sports,184.0,73.0,65,65,68,61,63,68,22,57
+10550,228520,Ezequiel Ávila,23,SD Huesca,179.0,81.0,65,74,79,57,59,66,27,62
+10551,235176,Christian Bernardi,27,Colon de Santa Fe,177.0,73.0,65,65,78,58,64,65,41,59
+10559,235947,Juan Brunetta,20,Belgrano de Córdoba,175.0,68.0,65,78,68,60,71,63,49,54
+10567,231340,Gonzalo Montiel,20,River Plate,175.0,70.0,65,79,69,32,43,47,64,73
+10596,214964,Leandro Velázquez,28,Tiburones Rojos de Veracruz,167.0,62.0,65,65,78,54,63,69,36,44
+10616,214969,Fernando Godoy,27,Talleres de Cordoba,174.0,71.0,65,68,65,47,61,59,59,59
+10642,184254,Josué Ayala,29,Temperley,184.0,85.0,65,65,66,65,65,66,35,63
+10662,219842,Juan Manuel Trejo,25,Independiente,178.0,65.0,65,66,80,51,59,66,42,63
+10677,216005,Federico Rašić,25,Arsenal Tula,194.0,83.0,65,69,38,68,42,53,28,75
+10688,229575,Daniel Mancini,20,Tours FC,171.0,72.0,65,76,67,45,62,70,56,60
+10702,216011,Cristian Villanueva,33,Bahía Blanca,179.0,71.0,65,65,60,29,54,65,67,71
+10710,226765,Lucas Gamba,30,Unión de Santa Fe,170.0,70.0,65,65,88,63,58,70,24,44
+10715,214990,Matías Catalán,24,Estudiantes de La Plata,182.0,79.0,65,70,81,58,62,60,58,69
+10746,232661,Mariano Bareiro,22,Defensa y Justicia,182.0,72.0,65,76,70,54,59,66,63,65
+10766,222428,Juan Komar,20,Talleres de Cordoba,189.0,82.0,65,78,59,32,39,37,65,73
+10801,215010,Emanuel Brítez,25,Unión de Santa Fe,179.0,75.0,65,69,78,41,51,60,63,73
+10814,222693,Héctor Fertoli,22,Newell's Old Boys,174.0,63.0,65,74,79,59,58,67,31,57
+10862,234223,Leandro Maciel,21,Club Atlético Lanús,178.0,80.0,65,73,71,43,59,62,65,61
+10875,143091,Pablo Santillo,37,Arsenal de Sarandí,183.0,78.0,65,65,73,63,64,62,48,65
+10898,226811,Franco Soldano,22,Unión de Santa Fe,177.0,74.0,65,73,68,62,47,63,26,64
+10932,221441,Gustavo Villarruel,24,San Martín de San Juan,172.0,67.0,64,70,75,60,58,67,37,50
+10941,228867,Julián Vitale,21,Unión de Santa Fe,184.0,81.0,64,73,50,48,56,60,64,70
+10958,201992,Juan Martin Imbert,27,Chacarita Juniors,171.0,71.0,64,64,79,56,58,66,51,65
+11030,240149,Mariano Konyk,19,Sevilla Atlético,181.0,75.0,64,77,61,27,43,41,66,61
+11048,215066,Federico Milo,25,Arsenal de Sarandí,180.0,75.0,64,68,70,33,47,64,63,68
+11065,219678,Lucas Mancinelli,27,Bahía Blanca,168.0,68.0,64,64,67,60,63,65,65,60
+11092,206628,Adrián Calello,30,Club Atlético Huracán,178.0,71.0,64,64,56,41,57,63,67,69
+11111,235047,Jonathan Menéndez,23,Talleres de Cordoba,166.0,62.0,64,71,87,62,54,70,22,44
+11125,143147,Damían Albil,37,Independiente,182.0,75.0,64,64,63,61,66,62,33,71
+11138,224814,Rodrigo Moreira,20,Independiente,187.0,91.0,64,77,54,30,39,39,63,78
+11147,232240,Ramiro Martínez,26,Godoy Cruz,178.0,76.0,64,68,62,63,62,66,24,64
+11152,224049,Néstor Breitenbruch,21,Independiente,177.0,75.0,64,73,64,39,54,55,63,72
+11169,236341,Nicolás Messiniti,21,San Martín de San Juan,184.0,80.0,64,73,67,64,48,64,22,60
+11189,219451,Nehuén Paz,25,Newell's Old Boys,192.0,89.0,64,68,54,45,52,48,67,75
+11196,215356,Facundo Callejo,24,Colon de Santa Fe,170.0,67.0,64,66,81,60,59,66,35,53
+11197,227900,Nicolás Tripichio,21,Vélez Sarsfield,175.0,68.0,64,74,75,38,54,61,61,64
+11206,228415,Leonardo Godoy,22,Talleres de Cordoba,180.0,70.0,64,74,66,31,50,59,64,70
+11214,224065,Domingo Blanco,22,Independiente,169.0,67.0,64,74,72,49,62,68,31,51
+11225,215109,Leandro Navarro,25,San Lorenzo de Almagro,184.0,76.0,64,66,51,62,66,70,59,62
+11266,232527,Damián Schmidt,24,San Martín de San Juan,183.0,76.0,64,69,63,37,39,51,63,69
+11274,226386,Luca Sosa,23,Club Atlético Patronato,175.0,71.0,64,70,55,36,46,47,63,69
+11284,203862,Hugo Silva,25,Defensa y Justicia,176.0,77.0,64,69,66,27,48,50,63,67
+11320,231519,Luis Olivera,18,San Martín de San Juan,168.0,67.0,64,79,81,30,47,57,57,56
+11341,219492,Manuel De Iriondo,24,Unión de Santa Fe,179.0,75.0,64,68,71,51,55,59,62,76
+11358,226407,Gastón Bojanich,32,Club Atlético Tigre,191.0,83.0,64,64,51,25,30,35,64,77
+11367,239721,Juan Eduardo Lescano,24,FC Anzhi Makhachkala,187.0,79.0,64,68,73,64,52,64,27,65
+11399,228211,Eric Ramírez,20,Gimnasia y Esgrima La Plata,170.0,64.0,64,76,80,64,60,66,29,50
+11424,222585,Francisco Fydriszewski,24,CD Lugo,186.0,78.0,64,71,56,65,43,66,30,68
+11442,233086,Matías Quiroga,31,Club Atlético Patronato,195.0,83.0,64,64,43,61,43,52,26,69
+11458,241026,Tomás Chancalay,18,Colon de Santa Fe,170.0,65.0,64,80,73,64,59,71,34,48
+11479,207496,Juan Sánchez Sotelo,29,Temperley,180.0,79.0,64,64,62,64,53,63,29,64
+11480,191112,Sebastián D'Angelo,28,Newell's Old Boys,183.0,78.0,64,65,63,61,76,65,30,64
+11509,226447,Santiago Echeverría,27,Independiente Medellín,183.0,80.0,64,66,50,23,36,37,66,65
+11541,233369,Lautaro Montoya,22,Chacarita Juniors,171.0,67.0,64,73,71,55,63,67,58,60
+11605,208298,Martín Rivero,27,Club Atlético Patronato,175.0,72.0,64,65,75,62,64,69,60,64
+11607,222378,Lucas Suárez,22,Defensa y Justicia,181.0,82.0,64,73,67,30,46,52,66,70
+11650,225714,Federico Anselmo,23,Argentinos Juniors,186.0,82.0,64,71,53,65,44,58,23,62
+11691,161468,Pablo Guiñazú,38,Talleres de Cordoba,172.0,71.0,64,64,54,56,61,60,65,71
+11748,237512,Gastón Togni,19,Independiente,180.0,76.0,64,81,81,60,58,66,36,58
+11769,232142,Lucas Chacana,24,Club Atlético Tigre,182.0,70.0,64,70,69,64,49,65,26,56
+11805,142808,David Vega,36,Bahía Blanca,178.0,72.0,64,64,57,61,65,67,44,58
+11846,210914,Federico Rosso,30,Chacarita Juniors,185.0,83.0,64,64,43,28,28,34,66,73
+11847,216802,Juan Kaprof,22,Defensa y Justicia,169.0,70.0,64,72,71,63,53,67,26,67
+11854,237283,Gastón Reniero,22,San Lorenzo de Almagro,188.0,79.0,64,74,66,65,54,61,23,66
+11870,219623,Leonardo Rolón,22,Arsenal de Sarandí,171.0,70.0,64,74,77,39,64,68,50,63
+11893,232171,Mariano Vázquez,24,Deportes Tolima,174.0,71.0,64,71,69,53,58,67,32,49
+11905,227823,Gonzalo Di Renzo,21,Club Atlético Patronato,181.0,74.0,64,73,80,59,55,66,25,58
+11916,231154,Matías Noble,20,Gimnasia y Esgrima La Plata,172.0,70.0,64,75,64,40,60,67,50,61
+11931,236021,Lucas Márquez,28,Club Atlético Patronato,177.0,73.0,64,64,55,31,41,60,65,59
+11939,226808,Juan Gabriel Rivas,24,Unión de Santa Fe,177.0,77.0,64,69,70,52,63,64,48,57
+11947,226810,Agustín Sandona,24,Club Atlético Patronato,184.0,78.0,64,70,66,35,48,54,62,72
+11955,232700,Marcelo Guzmán,32,Club Atlético Patronato,176.0,74.0,64,64,65,55,60,65,62,69
+11975,191489,Eial Strahman,28,Bahía Blanca,183.0,79.0,63,63,60,64,44,55,26,68
+11978,225282,José Devecchi,21,San Lorenzo de Almagro,187.0,83.0,63,73,64,60,57,65,47,62
+12010,232713,Daniel Sappa,22,Estudiantes de La Plata,193.0,90.0,63,72,52,63,68,56,29,71
+12024,223501,Adrían Sporle,21,Banfield,186.0,76.0,63,72,73,49,57,62,60,69
+12091,229661,Fabricio Alvarenga,21,Vélez Sarsfield,178.0,76.0,63,71,78,61,58,65,41,59
+12102,221983,Matías Sánchez,20,Club Atlético Lanús,174.0,72.0,63,77,71,58,61,67,39,56
+12135,232488,Cristian Romero,19,Belgrano de Córdoba,185.0,79.0,63,77,61,34,39,40,63,71
+12164,240690,Nicolás González,19,Argentinos Juniors,180.0,68.0,63,75,76,58,56,67,34,53
+12196,241467,Francisco Feuillassier,19,Real Madrid CF,172.0,68.0,63,78,64,69,56,65,25,57
+12210,227903,Maximiliano Romero,18,Vélez Sarsfield,179.0,72.0,63,79,75,61,47,63,24,60
+12249,233033,Marcos Minetti,28,Club Atlético Patronato,185.0,82.0,63,63,54,36,48,55,63,72
+12276,172112,Marcos Aguirre,33,Deportivo Pasto,170.0,68.0,63,63,67,59,63,62,30,62
+12328,231521,Exequiel Palacios,18,River Plate,173.0,67.0,63,79,73,54,57,67,51,58
+12339,223845,Daniel González,26,Defensa y Justicia,175.0,70.0,63,64,74,45,60,66,60,52
+12361,225389,Marcos Pinto,23,Temperley,173.0,73.0,63,70,76,38,55,60,59,63
+12372,231538,Brian Blasi,21,Unión de Santa Fe,180.0,75.0,63,73,66,32,43,49,63,67
+12376,234100,Gonzalo Escobar,20,Temperley,171.0,70.0,63,76,73,39,52,58,60,65
+12393,236409,Sergio Almirón,31,Atlético Huila,188.0,83.0,63,63,41,64,41,52,30,68
+12395,200826,Mauro Quiroga,27,Argentinos Juniors,191.0,84.0,63,64,55,56,43,48,25,75
+12401,233084,Nahuel Molina Lucero,19,Boca Juniors,178.0,73.0,63,75,73,35,55,62,57,65
+12402,236668,Gabriel Rojas,20,San Lorenzo de Almagro,178.0,68.0,63,79,74,51,56,66,58,61
+12406,225917,Iván Silva,23,Newell's Old Boys,184.0,83.0,63,71,63,51,56,60,61,70
+12415,236415,Renzo Alfani,21,Rosario Central,186.0,79.0,63,72,57,33,40,40,64,62
+12420,232832,Luciano Gómez,21,Banfield,163.0,66.0,63,74,76,52,56,68,49,53
+12427,233089,Gastón Del Castillo,20,Arsenal de Sarandí,167.0,72.0,63,75,75,60,59,71,23,46
+12436,214660,Lucas Rodríguez,23,Tiburones Rojos de Veracruz,168.0,68.0,63,70,74,47,62,69,59,60
+12440,241028,Joaquín Aylagas,21,Colon de Santa Fe,188.0,85.0,63,71,63,64,62,65,36,60
+12608,228536,Elías Umeres,21,Estudiantes de La Plata,166.0,66.0,63,72,79,59,52,66,20,54
+12612,229561,Jonathan Fleita,22,Unión de Santa Fe,182.0,78.0,63,67,63,32,33,40,63,66
+12650,227522,Maximiliano Fornari,22,Bahía Blanca,173.0,68.0,63,71,72,57,49,75,22,56
+12658,232644,Franco Colela,22,Banfield,176.0,74.0,63,73,71,57,55,70,65,70
+12678,227528,Braian Romero,26,Argentinos Juniors,173.0,73.0,63,65,86,61,54,65,37,60
+12708,219346,Alejandro Barbaro,25,FC SKA-Energiya Khabarovsk,182.0,75.0,63,66,68,61,62,66,34,51
+12715,222419,Julián Marchioni,24,Club Atlético Patronato,183.0,78.0,63,69,58,58,59,61,49,66
+12742,228057,Leandro Vega,21,San Martín de San Juan,179.0,70.0,63,76,67,28,47,54,64,62
+12746,234458,Carlos Quintana,29,Talleres de Cordoba,190.0,84.0,63,63,49,29,34,43,63,71
+12755,231388,Lucas Algozino,21,Unión de Santa Fe,172.0,69.0,63,72,80,50,60,67,38,50
+12835,216050,Alejandro Gagliardi,27,Chacarita Juniors,177.0,82.0,63,63,69,51,58,63,62,64
+12840,216052,Fernando Coniglio,25,Club Atlético Huracán,184.0,84.0,63,68,56,59,49,59,26,68
+12862,214777,Leandro Díaz,25,Tiburones Rojos de Veracruz,182.0,78.0,63,66,67,63,49,62,22,63
+12871,236283,Marco Borgnino,19,Estudiantes de La Plata,176.0,70.0,63,78,83,59,54,66,23,56
+12881,158973,Leonardo Corti,36,San Martín de San Juan,180.0,77.0,63,63,61,58,56,63,19,74
+12900,235780,Alexis Sosa,17,Banfield,177.0,76.0,62,71,58,35,38,39,63,60
+12951,219670,Gonzalo Piovi,22,Argentinos Juniors,180.0,72.0,62,71,74,30,39,53,64,54
+12954,240406,Alan Robledo,19,Chacarita Juniors,183.0,78.0,62,72,58,30,37,41,61,62
+12957,234775,Sebastián Anchoverri,26,Bahía Blanca,181.0,81.0,62,65,64,59,58,65,32,60
+12961,239639,Juan Manuel Sánchez,26,Atlético Bucaramanga,170.0,68.0,62,64,73,59,57,67,41,50
+13008,228646,Nicolás Delgadillo,19,Vélez Sarsfield,177.0,70.0,62,78,74,56,55,64,24,59
+13025,219949,Nicolás Pantaleone,24,Bahía Blanca,179.0,77.0,62,69,66,32,46,59,63,59
+13026,238125,Leonel Álvarez,22,Independiente,180.0,75.0,62,68,63,41,52,56,60,64
+13076,240188,Daniel Opazo,20,Newell's Old Boys,178.0,75.0,62,72,61,64,52,63,23,51
+13093,240449,Maximiliano Cavallotti,32,Argentinos Juniors,187.0,81.0,62,62,63,65,54,60,25,64
+13100,232515,Facundo Cobos,24,Godoy Cruz,178.0,83.0,62,68,58,33,48,62,64,64
+13114,215112,Rodrigo Contreras,21,Arsenal de Sarandí,186.0,84.0,62,74,64,61,45,65,30,64
+13167,222040,Emiliano Agüero,22,San Martín de San Juan,179.0,81.0,62,72,61,48,55,60,55,76
+13195,232801,Joaquín Ibáñez,20,Arsenal de Sarandí,178.0,72.0,62,72,68,56,57,62,35,64
+13210,226663,Renzo Spinaci,24,Club Atlético Tigre,177.0,68.0,62,68,63,40,56,57,58,70
+13213,215145,Luis Jeréz Silva,28,Defensa y Justicia,183.0,82.0,62,63,62,54,52,58,65,66
+13235,207727,Matías Ballini,28,Atlético Tucumán,173.0,75.0,62,62,62,39,47,55,62,73
+13277,226170,Emiliano Amor,22,Vélez Sarsfield,183.0,80.0,62,73,49,24,36,41,61,72
+13289,236669,Emiliano Purita,20,Arsenal de Sarandí,179.0,69.0,62,77,73,52,58,61,54,70
+13301,233088,Gonzalo Rehak,24,Independiente,185.0,71.0,62,70,63,55,55,61,29,64
+13310,219522,Jeremías Ledesma,24,Rosario Central,185.0,83.0,62,67,62,59,64,65,45,58
+13324,241029,Franco Quiroz,19,Colon de Santa Fe,177.0,75.0,62,74,73,51,56,60,60,64
+13343,214410,Sergio Velázquez,26,Arsenal de Sarandí,179.0,70.0,62,63,71,38,59,68,60,70
+13348,219531,Sebastián Olivares,25,Godoy Cruz,180.0,82.0,62,68,57,33,41,47,62,69
+13374,227477,Facundo Altamirano,21,Banfield,185.0,78.0,62,75,62,59,64,62,44,58
+13432,241063,Ryduan Palermo,20,Arsenal de Sarandí,182.0,71.0,62,72,63,65,47,55,23,48
+13437,223145,Leandro Figueroa,24,Newell's Old Boys,180.0,70.0,62,67,61,62,56,59,27,57
+13443,240811,Marcelo Torres,19,Talleres de Cordoba,180.0,70.0,62,78,73,60,48,56,30,61
+13469,238771,Fernando Núñez,21,Godoy Cruz,175.0,70.0,62,73,69,63,50,66,20,48
+13470,240308,Enzo Maidana,29,Incheon United FC,180.0,77.0,62,62,72,61,39,58,19,69
+13508,237248,Germán Berterame,18,San Lorenzo de Almagro,178.0,72.0,62,80,78,56,51,62,25,66
+13510,214721,Federico Falcone,27,CD Aves,188.0,79.0,62,62,57,63,42,61,21,69
+13625,215269,Marcos Rivadero,24,Belgrano de Córdoba,177.0,75.0,62,67,59,44,57,62,61,64
+13629,238821,Federico Vietto,19,Racing Club de Avellaneda,178.0,70.0,62,79,73,58,50,67,23,56
+13664,215026,Pablo Daniel Magnín,27,San Martín de San Juan,177.0,71.0,62,63,63,66,52,65,22,51
+13665,226546,Facundo Barboza,20,Argentinos Juniors,170.0,69.0,62,74,76,46,58,65,25,51
+13670,236019,Cristian Ramírez,22,Talleres de Cordoba,180.0,72.0,62,71,70,52,63,62,46,52
+13734,236296,Walter Bracamonte,19,Unión de Santa Fe,174.0,72.0,61,73,74,56,54,65,29,59
+13746,240397,Ezequiel Rodríguez,26,Club Atlético Tigre,187.0,83.0,61,63,66,48,65,56,44,66
+13777,240408,Franco Boló,23,Atlético Huila,170.0,70.0,61,69,68,52,62,64,32,45
+13838,233777,Pedro Silva Torrejón,20,Bahía Blanca,180.0,76.0,61,70,76,42,48,58,56,65
+13844,240691,Esteban Rueda,21,Argentinos Juniors,173.0,72.0,61,69,76,60,54,64,31,51
+13849,233780,Alexis Maldonado,19,Banfield,187.0,84.0,61,75,58,28,33,37,61,72
+13904,233031,Félix Banega,20,San Martín de San Juan,170.0,62.0,61,73,69,38,60,66,49,46
+13913,226124,Rodrigo Migone,21,Club Atlético Patronato,173.0,70.0,61,73,77,55,54,66,19,58
+13921,231247,Brian Cufré,20,Vélez Sarsfield,179.0,82.0,61,75,71,36,56,62,54,74
+13940,240469,Exequiel Beltramone,18,Talleres de Cordoba,160.0,60.0,61,81,61,47,62,62,45,42
+13950,226393,Nicolás Pelaitay,24,San Martín de San Juan,168.0,74.0,61,67,65,40,50,52,59,68
+13962,228960,Ijiel Protti,22,Chacarita Juniors,175.0,71.0,61,66,79,59,48,65,21,53
+13968,157539,Fabricio Lenci,33,Argentinos Juniors,182.0,84.0,61,61,58,59,52,59,44,60
+13976,239206,Vernon De Marco,24,Lech Poznań,182.0,73.0,61,68,64,23,40,44,59,69
+13987,226409,Leandro De Bórtoli,28,Temperley,184.0,83.0,61,62,62,61,55,56,49,57
+14025,229751,Emiliano Ozuna,21,Temperley,172.0,76.0,61,72,75,60,51,65,21,43
+14042,225915,Agustín Fontana,21,Banfield,176.0,72.0,61,71,70,58,46,59,18,56
+14044,234107,Emanuel Ojeda,19,Rosario Central,180.0,72.0,61,77,64,52,60,59,54,59
+14063,239491,Juan Álvarez,21,Banfield,175.0,71.0,61,69,69,54,57,62,30,52
+14076,231558,Matías Sosa,21,Defensa y Justicia,169.0,70.0,61,69,66,54,60,59,44,55
+14082,241031,Facundo Tomás Garcés,17,Colon de Santa Fe,188.0,82.0,61,73,63,34,36,43,60,68
+14116,241044,Mauro Osores,20,Atlético Tucumán,190.0,78.0,61,71,64,33,36,44,61,65
+14123,235926,Matías Zaracho,19,Racing Club de Avellaneda,172.0,64.0,61,78,84,54,53,67,37,39
+14163,233892,Tomás Sandoval,18,Colon de Santa Fe,185.0,71.0,61,79,65,58,41,58,24,65
+14193,235951,Santiago Chacón,25,San Martín de San Juan,178.0,73.0,61,63,59,56,61,60,32,45
+14194,215984,Yair Bonnin,26,Gimnasia y Esgrima La Plata,187.0,83.0,61,64,61,61,56,62,43,56
+14208,224437,Maximiliano González,23,Rosario Central,178.0,71.0,61,68,63,50,55,59,63,74
+14235,240576,Mauro Ortíz,22,Talleres de Cordoba,162.0,64.0,61,71,69,53,65,64,42,44
+14239,229570,Abel Peralta,28,Club Atlético Patronato,175.0,75.0,61,61,68,49,53,64,54,64
+14243,233924,Maximiliano Lovera,18,Rosario Central,170.0,65.0,61,76,78,59,52,63,26,60
+14258,227785,Cristian Guanca,24,Colon de Santa Fe,177.0,78.0,61,67,73,62,52,64,34,64
+14278,222417,Ezequiel Ham,23,Argentinos Juniors,173.0,67.0,61,70,72,53,58,63,55,66
+14291,238036,Juan Bautista Cejas,19,Estudiantes de La Plata,175.0,70.0,61,75,74,54,58,62,43,54
+14306,227803,Emmanuel Martínez,23,Chacarita Juniors,169.0,67.0,61,69,85,55,46,66,20,53
+14308,236507,Tomás Conechny,19,San Lorenzo de Almagro,168.0,65.0,61,77,80,59,43,63,20,45
+14319,239837,Alexis Mac Allister,18,Argentinos Juniors,174.0,72.0,61,79,68,52,56,64,34,49
+14325,215267,Tobías Figueroa,25,Belgrano de Córdoba,191.0,90.0,61,66,42,60,44,55,30,69
+14335,235494,Rodrigo Caballuci,24,Bahía Blanca,173.0,65.0,61,63,73,58,55,62,29,45
+14365,225519,Leandro Contin,21,Gimnasia y Esgrima La Plata,183.0,78.0,61,68,54,60,46,58,22,67
+14376,240372,Pedro Fernández,30,Chacarita Juniors,180.0,75.0,61,61,60,57,60,61,27,63
+14380,238069,Gabriel Carrasco,20,Club Atlético Lanús,175.0,74.0,61,70,69,32,43,57,59,60
+14391,237819,Nicolás Domínguez,19,Vélez Sarsfield,179.0,73.0,61,72,67,57,61,60,53,57
+14403,225792,Mauricio Aquino,23,Arsenal de Sarandí,188.0,79.0,60,69,62,55,68,62,41,58
+14405,235008,Lucas Robertone,20,Vélez Sarsfield,175.0,70.0,60,75,67,59,53,63,31,52
+14414,232708,Milton Valenzuela,18,Newell's Old Boys,168.0,64.0,60,75,76,30,49,59,54,62
+14416,232709,Damian Batallini,21,Argentinos Juniors,175.0,77.0,60,70,76,49,51,65,54,65
+14438,223502,Claudio Villagra,21,Banfield,167.0,66.0,60,72,77,51,53,63,24,43
+14439,233230,Kevin Mac Allister,19,Argentinos Juniors,172.0,72.0,60,71,69,35,44,57,58,54
+14469,240410,Nahuel Menéndez,23,Chacarita Juniors,166.0,64.0,60,68,64,31,42,57,61,50
+14472,239132,Catriel Sánchez,18,Talleres de Cordoba,186.0,80.0,60,79,58,61,44,58,20,61
+14473,240412,Gonzalo Groba,21,Chacarita Juniors,170.0,68.0,60,68,67,51,56,65,36,44
+14492,238881,David Valdez,24,Atlético Tucumán,174.0,72.0,60,67,63,32,39,60,60,56
+14522,238892,Martin Peralta,20,Atlético Tucumán,180.0,74.0,60,69,67,59,48,55,29,56
+14553,231222,Fabián Henríquez,22,Godoy Cruz,185.0,74.0,60,67,73,49,58,62,43,62
+14559,231479,Leonel Mosevich,20,Argentinos Juniors,187.0,81.0,60,72,56,29,32,37,60,65
+14576,240444,Elías Alderete,21,Chacarita Juniors,175.0,70.0,60,68,68,59,49,60,23,51
+14579,240957,Esteban Giambuzzi,30,Club Atlético Tigre,182.0,78.0,60,60,66,31,37,55,63,63
+14589,211266,Luis Vila,25,Bahía Blanca,178.0,73.0,60,65,72,60,45,56,25,60
+14590,240962,Michael López,19,Banfield,181.0,74.0,60,71,64,61,47,57,27,53
+14595,240964,Nicolás Linares,21,Banfield,175.0,72.0,60,70,66,52,59,66,50,54
+14613,233034,Juan Andrada,22,Godoy Cruz,183.0,77.0,60,69,55,42,56,56,56,65
+14643,224854,Lucas Passerini,22,Club Atlético Tigre,189.0,90.0,60,66,56,59,46,51,28,69
+14648,232535,Guillermo Benítez,23,Argentinos Juniors,170.0,69.0,60,67,70,48,54,59,59,60
+14675,233057,Franco Troyansky,20,Bahía Blanca,178.0,77.0,60,74,61,60,44,62,21,45
+14707,231539,Nicolás Andereggen,17,Unión de Santa Fe,175.0,71.0,60,78,67,61,49,63,21,57
+14733,233085,Federico Costa,28,Club Atlético Patronato,188.0,89.0,60,61,62,57,55,63,29,56
+14742,223105,Nicolás Oroz,23,Racing Club de Avellaneda,173.0,74.0,60,68,72,49,57,66,31,48
+14771,241292,Ignacio Huguenet,19,Newell's Old Boys,187.0,78.0,60,75,65,51,60,64,43,56
+14778,227215,Santiago Magallán,25,C.D. Leonesa S.A.D.,185.0,78.0,60,65,71,48,57,61,45,64
+14781,240015,Ivo Hongn,26,Club Atlético Tigre,177.0,77.0,60,61,69,64,49,61,20,51
+14804,226709,Alejandro Melo,21,Atlético Tucumán,180.0,70.0,60,73,72,56,57,65,22,52
+14807,235925,Gastón Gómez,21,Racing Club de Avellaneda,189.0,88.0,60,70,66,56,60,59,23,57
+14811,215190,Gonzalo Yordan,23,Vélez Sarsfield,185.0,81.0,60,66,60,59,56,65,38,57
+14839,233374,Rodrigo De Ciancio,22,Temperley,179.0,68.0,60,66,63,36,54,56,55,65
+14871,237994,Nahuel Barrios,19,San Lorenzo de Almagro,156.0,58.0,60,76,76,52,57,62,40,39
+14880,222639,Roberto Ramírez,20,Godoy Cruz,187.0,73.0,60,72,63,57,58,62,47,57
+14919,235966,Gonzalo Goñi,18,Boca Juniors,187.0,83.0,60,76,56,27,37,40,59,66
+14931,230851,Lautaro Mesa,20,Argentinos Juniors,174.0,73.0,60,72,63,58,45,53,33,66
+14941,239301,Lisandro Martínez,19,Defensa y Justicia,175.0,70.0,60,76,59,29,32,37,63,55
+14942,226246,Lucio Compagnucci,21,Club Atlético Huracán,174.0,73.0,60,72,73,47,54,62,56,61
+14950,231116,Nicolás Temperini,22,Newell's Old Boys,184.0,78.0,60,69,62,56,61,62,28,58
+14972,228819,Matías Vargas,20,Vélez Sarsfield,168.0,66.0,60,74,78,55,57,63,34,47
+14974,226772,Joaquin Laso,26,Argentinos Juniors,185.0,78.0,60,60,60,26,39,48,64,71
+14976,238037,Nicolás Bazzana,21,Estudiantes de La Plata,186.0,78.0,60,68,63,31,32,37,61,63
+15000,226270,Germán Caffa,36,Corporación Club Deportivo Tuluá,190.0,84.0,60,60,59,58,53,60,13,62
+15017,228070,Juan Silva,19,Gimnasia y Esgrima La Plata,178.0,70.0,60,68,69,49,55,60,59,71
+15039,225516,Sebastián Martelli,21,Temperley,170.0,66.0,60,72,68,48,57,64,32,44
+15056,240368,Gabriel Lazarte,19,Chacarita Juniors,175.0,70.0,60,73,71,33,46,63,57,55
+15070,221686,Claudio Mosca,26,San Martín de San Juan,180.0,74.0,60,64,60,43,59,56,60,52
+15072,237046,Guido Villar,22,Bahía Blanca,192.0,79.0,60,68,64,57,61,59,18,57
+15087,241147,Martín Ferreyra,21,Bahía Blanca,191.0,82.0,60,68,60,29,34,39,61,62
+15149,227602,Fabio Álvarez,24,Atlético Tucumán,184.0,70.0,59,66,71,56,59,67,29,62
+15156,240405,Juan Cruz González,20,Chacarita Juniors,175.0,70.0,59,70,61,32,42,56,61,58
+15160,213272,Lucas Cháves,21,Argentinos Juniors,179.0,72.0,59,65,61,55,57,60,45,56
+15170,239899,Victor Fernandez,19,Newcastle United,170.0,70.0,59,74,62,61,50,67,33,44
+15171,240411,Agustín Módula,24,Chacarita Juniors,176.0,72.0,59,64,69,47,55,59,48,59
+15216,225590,Iván Colman,22,Argentinos Juniors,173.0,71.0,59,70,69,51,57,63,21,56
+15233,240447,Lucas Destéfano,22,Chacarita Juniors,160.0,63.0,59,65,63,51,58,65,39,40
+15248,240456,Giancarlo Bianchini,20,Talleres de Cordoba,176.0,70.0,59,69,67,55,55,63,28,43
+15250,240969,Julián Carranza,17,Banfield,182.0,75.0,59,81,73,58,47,57,27,53
+15269,229459,Nicolas Schiavi,22,Novara,173.0,70.0,59,66,63,45,56,64,38,52
+15271,240211,Gaspar Gentile,22,Temperley,184.0,70.0,59,66,69,59,55,57,18,59
+15350,241010,Marcelo Ortíz,23,Rosario Central,186.0,74.0,59,63,64,25,37,39,60,61
+15374,233092,Joaquín Pereyra,18,Rosario Central,181.0,71.0,59,77,67,53,59,60,34,57
+15387,241291,Enzo Cabrera,17,Newell's Old Boys,175.0,70.0,59,79,58,64,46,53,24,46
+15429,233887,Julián Chicco,19,Boca Juniors,185.0,71.0,59,75,63,41,52,56,56,68
+15481,233918,Maximiliano Velazco,22,Arsenal de Sarandí,186.0,81.0,59,67,59,56,65,58,25,60
+15493,232645,Facundo Cambeses,20,Banfield,185.0,78.0,59,73,58,59,57,61,45,59
+15499,241097,Mauro González,20,Chacarita Juniors,178.0,75.0,59,68,62,45,59,58,49,53
+15514,235987,Iván Gómez,20,Estudiantes de La Plata,165.0,63.0,59,72,62,41,51,57,55,60
+15545,234464,Victorio Ramis,22,Godoy Cruz,180.0,77.0,59,64,64,58,42,57,22,53
+15549,234465,Aldo Araujo,25,Talleres de Cordoba,164.0,60.0,59,62,77,51,51,66,30,40
+15586,240369,Miguel Mellado,24,Chacarita Juniors,175.0,74.0,59,65,57,40,57,58,55,57
+15589,240370,Juan Ignacio Álvarez,19,Chacarita Juniors,176.0,71.0,59,74,67,51,53,66,36,48
+15603,237818,Nahuel Arena,18,Vélez Sarsfield,183.0,67.0,59,70,66,30,35,48,58,61
+15605,240379,Matías Rodríguez,24,Chacarita Juniors,175.0,61.0,59,64,60,63,49,71,26,36
+15618,240640,Leonardo Morales,26,Club Atlético Patronato,184.0,72.0,58,60,60,33,38,54,63,58
+15653,222992,Leandro Godoy,22,Arsenal de Sarandí,172.0,65.0,58,68,64,54,56,58,42,60
+15656,238865,Nicolás Darío Ortiz,22,Gimnasia y Esgrima La Plata,187.0,82.0,58,65,58,30,31,33,60,64
+15685,240670,Lucas Álvarez,23,Chacarita Juniors,184.0,75.0,58,66,56,54,52,61,19,60
+15694,240163,Nicolás Czornomaz,21,Defensa y Justicia,178.0,74.0,58,62,58,53,56,60,28,47
+15745,237122,Tomás Guidara,21,Belgrano de Córdoba,173.0,68.0,58,68,69,31,40,54,56,51
+15757,240970,Martín Payero,18,Banfield,182.0,78.0,58,77,63,49,56,57,52,61
+15758,227148,Federico Bonansea,19,Belgrano de Córdoba,185.0,78.0,58,71,63,52,51,62,38,53
+15805,240228,Claudio Velásquez,31,Jaguares Fútbol Club,180.0,60.0,58,58,58,61,41,56,19,41
+15806,232549,Marcos Peano,18,Unión de Santa Fe,188.0,80.0,58,72,58,56,57,61,27,58
+15846,232826,Francis Mac Allister,21,Argentinos Juniors,176.0,72.0,58,67,69,43,56,60,47,56
+15847,234106,Nicolás Giménez,20,Rosario Central,182.0,75.0,58,71,65,37,49,52,57,64
+15855,225918,Lucas Giovagnoli,23,Newell's Old Boys,180.0,78.0,58,65,55,59,49,56,33,58
+15859,241024,Matías Ruiz Díaz,20,Estudiantes de La Plata,175.0,70.0,58,69,65,30,38,56,60,53
+15862,233090,Joaquín Torres,20,Newell's Old Boys,177.0,70.0,58,69,72,47,52,62,33,56
+15908,241046,Jonás Romero,16,Atlético Tucumán,170.0,65.0,58,82,76,57,48,57,27,45
+15913,240796,Manuel Roffo,17,Boca Juniors,183.0,80.0,58,81,58,61,56,61,26,55
+15917,240800,Franco Malagueño,18,Talleres de Cordoba,167.0,68.0,58,72,60,33,41,56,59,50
+15925,241064,Mateo Carabajal,20,Arsenal de Sarandí,175.0,68.0,58,67,63,29,38,42,61,51
+15946,233916,Lucio Chiappero,23,Defensa y Justicia,183.0,75.0,58,63,58,51,53,57,43,59
+15956,239298,Alejandro Montiel,23,Atlético Tucumán,179.0,71.0,58,64,54,28,33,37,62,56
+15959,232646,Claudio Bravo,20,Banfield,171.0,74.0,58,69,67,44,46,59,60,57
+15990,227548,Facundo Melivilo,25,Defensa y Justicia,185.0,79.0,58,60,54,61,50,61,27,69
+16025,240876,Matías Nani,19,Temperley,189.0,85.0,58,72,66,31,40,47,59,58
+16099,240152,Agustin Gómez,20,AIK Solna,187.0,84.0,57,65,61,25,38,40,57,66
+16100,241176,Lucas Vera,20,Club Atlético Lanús,164.0,60.0,57,65,60,45,59,55,47,43
+16126,240687,Lucas Lescano,17,Chacarita Juniors,180.0,72.0,57,77,61,57,46,56,27,52
+16130,231219,Braian Rivero,21,Newell's Old Boys,178.0,74.0,57,67,66,40,53,57,54,60
+16137,240440,Joaquín Ibáñez,21,Chacarita Juniors,166.0,65.0,57,67,62,47,57,58,43,50
+16150,228416,Germán Ferreyra,21,Arsenal de Sarandí,178.0,74.0,57,69,66,42,52,49,55,63
+16156,239685,Kevin Genaro,25,Patriotas Boyacá FC,186.0,90.0,57,60,48,56,40,48,21,64
+16158,233030,Franco Pizzicanella,21,Atlético Tucumán,183.0,84.0,57,65,56,58,60,55,34,52
+16210,241001,Fran Brener,19,Belgrano de Córdoba,170.0,69.0,57,70,64,61,48,65,30,43
+16229,229238,Tomás Figueroa,22,Vélez Sarsfield,180.0,73.0,57,64,58,55,62,59,22,55
+16235,235128,Nicolás Maná,23,San Martín de San Juan,178.0,79.0,57,61,62,58,41,50,21,59
+16305,235946,Sebastián Lomónaco,18,Arsenal de Sarandí,178.0,73.0,57,73,61,53,45,56,22,51
+16315,235952,Arián Pucheta,22,San Martín de San Juan,180.0,84.0,57,64,51,24,31,40,58,58
+16321,236725,Facundo Britos,21,Unión de Santa Fe,179.0,74.0,57,67,65,44,55,54,60,70
+16324,238518,Franco Pardo,20,Belgrano de Córdoba,183.0,80.0,57,68,63,32,33,36,58,60
+16408,234216,Nicolás Herranz,23,Bahía Blanca,183.0,77.0,57,65,58,28,34,41,57,57
+16437,237820,Gianluca Mancuso,19,Vélez Sarsfield,179.0,74.0,57,69,69,52,56,61,50,57
+16448,237575,Jerónimo Pourtau,17,Estudiantes de La Plata,191.0,87.0,56,75,56,58,55,62,17,53
+16509,240956,Matías Melluso,19,Gimnasia y Esgrima La Plata,178.0,72.0,56,71,61,35,37,55,60,54
+16545,240983,Maximiliano Díaz,27,Club Atlético Tigre,194.0,90.0,56,59,51,53,53,55,25,61
+16578,232817,Ignacio Chicco,21,Colon de Santa Fe,185.0,80.0,56,70,56,59,52,53,32,56
+16580,241012,Leonel Piedrabuena,17,Racing Club de Avellaneda,180.0,69.0,56,74,59,54,52,59,26,53
+16585,236664,Leonel Rivas,17,Rosario Central,172.0,62.0,56,78,84,48,53,60,33,40
+16596,241022,Juan Ignacio Díaz,19,Estudiantes de La Plata,175.0,70.0,56,69,57,30,32,37,58,51
+16609,226698,Nicolás Giménez,21,Talleres de Cordoba,179.0,77.0,56,66,69,55,55,56,50,70
+16625,236701,Joaquín Rikemberg,18,Belgrano de Córdoba,169.0,66.0,56,74,71,54,50,61,19,44
+16632,236961,Tomás Attis,17,Belgrano de Córdoba,180.0,78.0,56,73,62,55,45,52,21,55
+16652,215986,Nicolás Benavidez,25,Gimnasia y Esgrima La Plata,172.0,65.0,56,59,72,28,34,48,57,54
+16653,238514,Agustín Verdugo,19,Godoy Cruz,169.0,68.0,56,67,65,41,60,56,52,49
+16709,238298,Marcelo Miño,19,Rosario Central,184.0,80.0,56,73,61,56,49,58,17,46
+16722,241123,Federico Antúnez,18,Temperley,177.0,72.0,56,71,71,57,46,56,20,51
+16732,240362,Agustín Bolivar,21,Gimnasia y Esgrima La Plata,173.0,73.0,56,65,62,41,54,55,52,57
+16851,238194,Nahuel Bustos,18,Talleres de Cordoba,176.0,75.0,55,72,74,58,44,57,19,44
+16888,238228,Lucas Mulazzi,17,Temperley,182.0,80.0,55,73,53,29,34,36,54,62
+16922,226732,Federico Urraburo,26,San Martín de San Juan,189.0,91.0,55,59,51,52,58,53,18,60
+16986,241121,Fernando Asmar,17,Temperley,170.0,69.0,55,69,74,30,39,51,51,51
+17086,239171,Enzo Martinez,20,Gimnasia y Esgrima La Plata,172.0,72.0,54,62,55,45,57,54,47,55
+17088,237125,Valentín Barbero,16,Belgrano de Córdoba,183.0,75.0,54,72,74,45,50,54,23,45
+17132,232818,Mateo Hernández,18,Colon de Santa Fe,173.0,66.0,54,69,61,34,51,59,49,57
+17245,241137,Franco Vivas,20,Vercelli,174.0,65.0,54,63,67,50,44,60,21,42
+17305,227379,Franco Sosa,17,Temperley,171.0,72.0,53,75,82,50,38,56,24,58
+17336,240989,Julián Lucero,22,Temperley,182.0,73.0,53,61,61,44,52,55,29,51
+17466,236527,Santiago Cáseres,20,Vélez Sarsfield,177.0,77.0,53,67,67,51,52,57,52,59
+17544,232816,Alejandro Rivero,19,Arsenal de Sarandí,186.0,81.0,52,64,59,48,53,49,21,48
+17582,240291,Kevin Humeler,20,Talleres de Cordoba,187.0,82.0,52,64,50,58,52,51,20,52
+17721,236431,Emanuel Alarcón,24,Club Atlético Patronato,183.0,75.0,51,58,56,55,55,49,26,44
+17912,240975,Camilo Veloz,19,Gimnasia y Esgrima La Plata,186.0,83.0,49,59,49,46,47,51,34,49
