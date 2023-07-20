@@ -1,6 +1,6 @@
 # Digital-House
 
-Compilado de todas las clases, junto con los ejercicios y practicos resueltos por mi del curso de Data Science de Digital House. Periodo 2021-2022.
+Compilation of all the classes, along with the exercises and practical assignments solved by me during the Data Science course at Digital House. Period: 2021-2022.
 
 
 
